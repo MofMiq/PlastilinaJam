@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f461de97c9e28d8419d8ba3c43630e89, type: 3}
-  m_Name: ItemMaskD
+  m_Name: RewardMask2
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
-  maskName: D
-  icon: {fileID: 4081543301678191023, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
-  npcSprite: {fileID: -2654471525759449198, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
-  oruga: 2
+  maskName: RewardMask2
+  icon: {fileID: 5994275585877690731, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
+  npcSprite: {fileID: -7986631684109397022, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
+  oruga: 4
   cuneiforme: 1
-  pescao: 3
+  pescao: 1

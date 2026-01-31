@@ -15,6 +15,6 @@ MonoBehaviour:
   maskName: C
   icon: {fileID: 4519518871663985449, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
   npcSprite: {fileID: 7172744759440085350, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
-  kindness: 12
-  rarity: 23
-  darkness: 34
+  oruga: 1
+  cuneiforme: 1
+  pescao: 1

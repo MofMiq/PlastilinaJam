@@ -54,4 +54,15 @@ public class InventorySlotDebug : MonoBehaviour
                 slot.button.interactable = false;
         }
     }
+
+    public static void EnableAllSlots()
+    {
+        InventorySlotDebug[] allSlots = FindObjectsOfType<InventorySlotDebug>();
+        foreach (var slot in allSlots)
+        {
+            if (slot.button != null)
+                slot.button.interactable = true;
+        }
+    }
+
 }
