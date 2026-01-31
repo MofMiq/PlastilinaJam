@@ -6,12 +6,19 @@ public class NPCDialog : MonoBehaviour
     public string[] dialogLines;
 
     private int currentLine = 0;
+    public bool dialogFinished = false;
 
     public DialogUI dialogUI;
+
+    // NUEVO
+    public CanvasGroup inventoryCanvasGroup;
 
     void Start()
     {
         ShowCurrentLine();
+
+        // BLOQUEAR INVENTARIO AL EMPEZAR
+        SetInventoryInteractable(false);
     }
 
     public void NextLine()
@@ -20,7 +27,8 @@ public class NPCDialog : MonoBehaviour
 
         if (currentLine >= dialogLines.Length)
         {
-            Debug.Log("Dialog finished");
+            dialogFinished = true;
+            OnDialogFinished();
             return;
         }
 
@@ -30,5 +38,24 @@ public class NPCDialog : MonoBehaviour
     void ShowCurrentLine()
     {
         dialogUI.SetText(dialogLines[currentLine]);
+    }
+
+    void OnDialogFinished()
+    {
+        Debug.Log("Dialog finished");
+
+        // DESBLOQUEAR INVENTARIO
+        SetInventoryInteractable(true);
+    }
+
+    void SetInventoryInteractable(bool value)
+    {
+        if (inventoryCanvasGroup == null) return;
+
+        inventoryCanvasGroup.interactable = value;
+        inventoryCanvasGroup.blocksRaycasts = value;
+
+        // Opcional: feedback visual
+        inventoryCanvasGroup.alpha = value ? 1f : 0.5f;
     }
 }

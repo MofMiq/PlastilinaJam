@@ -441,7 +441,9 @@ MonoBehaviour:
   - fdsfdsfsdfsf
   - gggggggggggggggg
   - fffffffffffffffffffff
+  dialogFinished: 0
   dialogUI: {fileID: 13229840}
+  inventoryCanvasGroup: {fileID: 919713128}
 --- !u!222 &15367267
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -754,6 +756,7 @@ GameObject:
   - component: {fileID: 919713127}
   - component: {fileID: 919713126}
   - component: {fileID: 919713125}
+  - component: {fileID: 919713128}
   m_Layer: 5
   m_Name: Inventory
   m_TagString: Untagged
@@ -842,6 +845,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919713123}
   m_CullTransparentMesh: 1
+--- !u!225 &919713128
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919713123}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &990388131
 GameObject:
   m_ObjectHideFlags: 0
