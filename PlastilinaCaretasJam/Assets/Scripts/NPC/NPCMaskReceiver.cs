@@ -4,12 +4,10 @@ public class NPCMaskReceiver : MonoBehaviour
 {
     public MaskItem rewardMask;
 
-    public NPCController npcController;
-
     // SpriteRenderer del NPC (NO UI)
     public SpriteRenderer npcSpriteRenderer;
 
-    //public bool hasReceivedMask = false;
+    private bool hasReceivedMask = false;
 
     public NPCDialog npcDialog;
 
@@ -22,14 +20,13 @@ public class NPCMaskReceiver : MonoBehaviour
         Debug.Log("NPC " + npcName + " recibe " + givenMask.maskName + 
               " → valor: " + value);
 
-        //if (npcBase.hasMask)
-        //{
-        //    Debug.Log("NPC already received a mask.");
-        //     return null;
-        // }
+        if (hasReceivedMask)
+        {
+            Debug.Log("NPC already received a mask.");
+            return null;
+        }
 
-        // hasReceivedMask = true;
-        //npcBase.SetHasMask(true);
+        hasReceivedMask = true;
 
         Debug.Log("NPC received mask: " + givenMask.maskName);
 
@@ -41,9 +38,6 @@ public class NPCMaskReceiver : MonoBehaviour
         GameManager.Instance.AddScore(value);
 
         npcDialog.StartResponseDialog();
-
-        Debug.Log("npcController es null? " + (npcController == null));
-        npcController.OnMaskReceived();
 
         return rewardMask;
     }

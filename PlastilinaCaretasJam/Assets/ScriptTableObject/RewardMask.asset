@@ -15,6 +15,6 @@ MonoBehaviour:
   maskName: RewardMask
   icon: {fileID: -878775300250748510, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
   npcSprite: {fileID: 2027274068783436032, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
-  oruga: 3
-  cuneiforme: 2
-  pescao: 4
+  kindness: 1
+  rarity: 2
+  darkness: 3
