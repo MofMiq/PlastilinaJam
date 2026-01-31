@@ -368,6 +368,7 @@ GameObject:
   - component: {fileID: 15367264}
   - component: {fileID: 15367267}
   - component: {fileID: 15367266}
+  - component: {fileID: 15367268}
   - component: {fileID: 15367265}
   m_Layer: 5
   m_Name: NPC1
@@ -452,6 +453,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15367263}
   m_CullTransparentMesh: 1
+--- !u!114 &15367268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 15367263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd0f70b0a939b7c419b05e022ed10224, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCMaskReceiver
 --- !u!1 &389142140
 GameObject:
   m_ObjectHideFlags: 0
@@ -1106,7 +1119,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b9c00277c2941c459d8e5e21a21b27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
-  slotName: ButtonMask1
+  maskItem: {fileID: 11400000, guid: adcf1a0a397356d49beb63b7380121d8, type: 2}
+  npcReceiver: {fileID: 15367268}
 --- !u!114 &959117243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1127,8 +1141,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 0}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1804,7 +1818,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b9c00277c2941c459d8e5e21a21b27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
-  slotName: ButtonMask3
+  maskItem: {fileID: 11400000, guid: 5a1d16faa9c99794d8a56020a1206df3, type: 2}
+  npcReceiver: {fileID: 15367268}
 --- !u!114 &1293349851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1825,8 +1840,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 0}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2192,7 +2207,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b9c00277c2941c459d8e5e21a21b27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
-  slotName: ButtonMask2
+  maskItem: {fileID: 11400000, guid: e5ef637197a0f844a891cfd0e6c893fe, type: 2}
+  npcReceiver: {fileID: 15367268}
 --- !u!114 &1912448576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2213,8 +2229,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 0}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2339,7 +2355,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b9c00277c2941c459d8e5e21a21b27b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
-  slotName: ButtonMask4
+  maskItem: {fileID: 11400000, guid: 5aceb3c0930ff25488ae5ae65f0e742a, type: 2}
+  npcReceiver: {fileID: 15367268}
 --- !u!114 &2020074576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2360,8 +2377,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 0}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4

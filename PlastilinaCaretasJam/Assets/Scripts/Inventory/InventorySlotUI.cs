@@ -2,10 +2,18 @@ using UnityEngine;
 
 public class InventorySlotDebug : MonoBehaviour
 {
-    public string slotName;
+    public MaskItem maskItem;
+    public NPCMaskReceiver npcReceiver;
 
     public void OnSlotClicked()
     {
-        Debug.Log("Clicked on slot: " + slotName);
+        if (maskItem == null || npcReceiver == null)
+        {
+            Debug.LogWarning("Slot not configured!");
+            return;
+        }
+
+        Debug.Log("Giving mask: " + maskItem.maskName);
+        npcReceiver.ReceiveMask(maskItem);
     }
 }

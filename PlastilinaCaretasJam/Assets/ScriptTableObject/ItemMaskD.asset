@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f461de97c9e28d8419d8ba3c43630e89, type: 3}
+  m_Name: ItemMaskD
+  m_EditorClassIdentifier: Assembly-CSharp::MaskItem
+  maskName: D
+  icon: {fileID: 4081543301678191023, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
+  kindness: 56
+  rarity: 76
+  darkness: 65
