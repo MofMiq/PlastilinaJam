@@ -1122,6 +1122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: adcf1a0a397356d49beb63b7380121d8, type: 2}
   npcReceiver: {fileID: 15367268}
+  iconImage: {fileID: 959117243}
 --- !u!114 &959117243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1821,6 +1822,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: 5a1d16faa9c99794d8a56020a1206df3, type: 2}
   npcReceiver: {fileID: 15367268}
+  iconImage: {fileID: 1293349851}
 --- !u!114 &1293349851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2210,6 +2212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: e5ef637197a0f844a891cfd0e6c893fe, type: 2}
   npcReceiver: {fileID: 15367268}
+  iconImage: {fileID: 1912448576}
 --- !u!114 &1912448576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2358,6 +2361,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: 5aceb3c0930ff25488ae5ae65f0e742a, type: 2}
   npcReceiver: {fileID: 15367268}
+  iconImage: {fileID: 2020074576}
 --- !u!114 &2020074576
 MonoBehaviour:
   m_ObjectHideFlags: 0

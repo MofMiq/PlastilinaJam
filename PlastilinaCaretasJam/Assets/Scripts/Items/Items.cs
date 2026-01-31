@@ -6,6 +6,8 @@ public class MaskItem : ScriptableObject
     public string maskName;
     public Sprite icon;
 
+     public Sprite npcSprite;
+
     // Campos que luego usarán los NPC
     public int kindness;
     public int rarity;
