@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdc9485b2d19cd3479fa97fc7f5c61aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogButton
-  npcDialog: {fileID: 1040450952}
+  npcDialog: {fileID: 13229840}
 --- !u!1 &13229836
 GameObject:
   m_ObjectHideFlags: 0
@@ -988,7 +988,7 @@ GameObject:
   - component: {fileID: 990388134}
   - component: {fileID: 990388133}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: DialogText (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1173,6 +1173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCMaskReceiver
   rewardMask: {fileID: 11400000, guid: 6460bb30927ea514193b10dbf85b9e61, type: 2}
   npcSpriteRenderer: {fileID: 1040450950}
+  npcDialog: {fileID: 1040450952}
 --- !u!212 &1040450950
 SpriteRenderer:
   serializedVersion: 2
@@ -1259,12 +1260,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c58748ebfe410e4da1c12323cf2872c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialog
-  dialogLines:
-  - fdsfsdf
-  - 1111111111111111111
-  - 44444444444444444
-  dialogFinished: 0
   dialogUI: {fileID: 13229840}
+  initialDialogLines:
+  - hola
+  - carac
+  responseDialogLines:
+  - adios
+  - tabaco
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:
