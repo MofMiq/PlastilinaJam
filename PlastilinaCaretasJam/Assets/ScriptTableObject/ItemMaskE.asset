@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f461de97c9e28d8419d8ba3c43630e89, type: 3}
-  m_Name: ItemMaskC
+  m_Name: ItemMaskE
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
-  maskName: C
-  icon: {fileID: 4519518871663985449, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
-  npcSprite: {fileID: 7172744759440085350, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
-  oruga: 1
-  cuneiforme: 2
-  pescao: 4
+  maskName: E
+  icon: {fileID: 4081543301678191023, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
+  npcSprite: {fileID: -2654471525759449198, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
+  oruga: 0
+  cuneiforme: 4
+  pescao: 1
