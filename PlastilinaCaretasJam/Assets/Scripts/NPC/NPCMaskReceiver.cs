@@ -9,6 +9,8 @@ public class NPCMaskReceiver : MonoBehaviour
 
     private bool hasReceivedMask = false;
 
+    public NPCDialog npcDialog;
+
     public MaskItem ReceiveMask(MaskItem givenMask)
     {
         string npcName = GetComponent<NPCBase>().GetNPCName();
@@ -33,7 +35,9 @@ public class NPCMaskReceiver : MonoBehaviour
 
         Debug.Log("NPC gives back mask: " + rewardMask.maskName);
 
-        GameManager.Instance.AddScore(value); // TODO
+        GameManager.Instance.AddScore(value);
+
+        npcDialog.StartResponseDialog();
 
         return rewardMask;
     }

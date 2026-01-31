@@ -2,49 +2,36 @@ using UnityEngine;
 
 public class NPCDialog : MonoBehaviour
 {
-    [TextArea]
-    public string[] dialogLines;
-
-    private int currentLine = 0;
-    public bool dialogFinished = false;
-
     public DialogUI dialogUI;
 
-    // NUEVO
+    [Header("Dialogo Inicial")]
+    public string[] initialDialogLines;
+
+    [Header("Dialogo Respuesta")]
+    public string[] responseDialogLines;
+
+    [Header("Inventario")]
     public CanvasGroup inventoryCanvasGroup;
 
-    void Start()
+    private void Start()
     {
-        ShowCurrentLine();
+        // Escuchamos cuando termina cualquier diálogo
+        dialogUI.OnDialogFinished += OnDialogFinished;
 
-        // BLOQUEAR INVENTARIO AL EMPEZAR
+        // Al empezar: diálogo inicial + inventario bloqueado
         SetInventoryInteractable(false);
+        dialogUI.StartDialog(initialDialogLines);
     }
 
-    public void NextLine()
+    public void StartResponseDialog()
     {
-        currentLine++;
-
-        if (currentLine >= dialogLines.Length)
-        {
-            dialogFinished = true;
-            OnDialogFinished();
-            return;
-        }
-
-        ShowCurrentLine();
-    }
-
-    void ShowCurrentLine()
-    {
-        dialogUI.SetText(dialogLines[currentLine]);
+        SetInventoryInteractable(false);
+        dialogUI.StartDialog(responseDialogLines);
     }
 
     void OnDialogFinished()
     {
         Debug.Log("Dialog finished");
-
-        // DESBLOQUEAR INVENTARIO
         SetInventoryInteractable(true);
     }
 
@@ -54,8 +41,6 @@ public class NPCDialog : MonoBehaviour
 
         inventoryCanvasGroup.interactable = value;
         inventoryCanvasGroup.blocksRaycasts = value;
-
-        // Opcional: feedback visual
         inventoryCanvasGroup.alpha = value ? 1f : 0.5f;
     }
 }

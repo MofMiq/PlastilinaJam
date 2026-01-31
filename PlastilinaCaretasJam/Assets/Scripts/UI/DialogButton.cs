@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class DialogButton : MonoBehaviour
 {
-    public NPCDialog npcDialog;
+    public DialogUI npcDialog;
 
     public void OnNextPressed()
     {
