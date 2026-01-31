@@ -465,6 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd0f70b0a939b7c419b05e022ed10224, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCMaskReceiver
+  rewardMask: {fileID: 11400000, guid: 6460bb30927ea514193b10dbf85b9e61, type: 2}
 --- !u!1 &389142140
 GameObject:
   m_ObjectHideFlags: 0
