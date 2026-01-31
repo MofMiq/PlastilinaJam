@@ -5,11 +5,30 @@ public class MaskItem : ScriptableObject
 {
     public string maskName;
     public Sprite icon;
+    public Sprite npcSprite;
 
-     public Sprite npcSprite;
+    // Valores por NPC
+    public int oruga;
+    public int cuneiforme;
+    public int pescao;
 
-    // Campos que luego usarán los NPC
-    public int kindness;
-    public int rarity;
-    public int darkness;
+    // 🔽 MÉTODO CLAVE
+    public int GetValueForNPC(string npcName)
+    {
+        switch (npcName)
+        {
+            case "Oruga":
+                return oruga;
+
+            case "Cuneiforme":
+                return cuneiforme;
+
+            case "Pescao":
+                return pescao;
+
+            default:
+                Debug.LogWarning("NPC no reconocido: " + npcName);
+                return 0;
+        }
+    }
 }

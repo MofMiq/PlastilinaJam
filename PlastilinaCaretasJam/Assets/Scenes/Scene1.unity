@@ -1126,11 +1126,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1040450951}
   - component: {fileID: 1040450950}
+  - component: {fileID: 1040450953}
   - component: {fileID: 1040450952}
   - component: {fileID: 1040450949}
   - component: {fileID: 1040450948}
   m_Layer: 0
-  m_Name: NPC2
+  m_Name: Oruga
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1265,6 +1266,19 @@ MonoBehaviour:
   dialogFinished: 0
   dialogUI: {fileID: 13229840}
   inventoryCanvasGroup: {fileID: 919713128}
+--- !u!114 &1040450953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040450947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 052b1d719371a774584e97aa5760a3ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCBase
+  npcName: Oruga
 --- !u!1 &1050190167
 GameObject:
   m_ObjectHideFlags: 0
@@ -1785,7 +1799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: 5a1d16faa9c99794d8a56020a1206df3, type: 2}
-  npcReceiver: {fileID: 0}
+  npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 1293349851}
 --- !u!114 &1293349851
 MonoBehaviour:
@@ -1910,8 +1924,53 @@ Transform:
   m_GameObject: {fileID: 1324576885}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.3843, y: 1.3933, z: 0}
-  m_LocalScale: {x: 14.902483, y: 7.2317424, z: 0}
+  m_LocalPosition: {x: -1.3727, y: 1.3933, z: 0}
+  m_LocalScale: {x: 14.926328, y: 7.2317424, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1443623608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1443623610}
+  - component: {fileID: 1443623609}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1443623609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443623608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfc276f4ab95008498914afc8e9fdc6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  totalScore: 0
+--- !u!4 &1443623610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443623608}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.97296, y: -0.85101, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2265,7 +2324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: e5ef637197a0f844a891cfd0e6c893fe, type: 2}
-  npcReceiver: {fileID: 0}
+  npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 1912448576}
 --- !u!114 &1912448576
 MonoBehaviour:
@@ -2414,7 +2473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventorySlotDebug
   maskItem: {fileID: 11400000, guid: 5aceb3c0930ff25488ae5ae65f0e742a, type: 2}
-  npcReceiver: {fileID: 0}
+  npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 2020074576}
 --- !u!114 &2020074576
 MonoBehaviour:
@@ -2463,3 +2522,4 @@ SceneRoots:
   - {fileID: 1587325584}
   - {fileID: 389142143}
   - {fileID: 1324576887}
+  - {fileID: 1443623610}
