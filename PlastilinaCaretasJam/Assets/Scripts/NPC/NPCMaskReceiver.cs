@@ -3,21 +3,41 @@ using UnityEngine;
 public class NPCMaskReceiver : MonoBehaviour
 {
     public MaskItem rewardMask;
+
+    // SpriteRenderer del NPC (NO UI)
+    public SpriteRenderer npcSpriteRenderer;
+
     private bool hasReceivedMask = false;
 
     public MaskItem ReceiveMask(MaskItem givenMask)
     {
         if (hasReceivedMask)
         {
-            Debug.Log("NPC already received a mask!");
+            Debug.Log("NPC already received a mask.");
             return null;
         }
 
         hasReceivedMask = true;
 
         Debug.Log("NPC received mask: " + givenMask.maskName);
+
+        // Cambiar sprite del NPC
+        SetNPCMaskVisual(givenMask);
+
         Debug.Log("NPC gives back mask: " + rewardMask.maskName);
 
-        return rewardMask;   // 👈 DEVUELVE LA MÁSCARA
+        return rewardMask;
+    }
+
+    void SetNPCMaskVisual(MaskItem mask)
+    {
+        if (npcSpriteRenderer != null && mask.npcSprite != null)
+        {
+            npcSpriteRenderer.sprite = mask.npcSprite;
+        }
+        else
+        {
+            Debug.LogWarning("Missing npcSpriteRenderer or npcSprite on MaskItem");
+        }
     }
 }
