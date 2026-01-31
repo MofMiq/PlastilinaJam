@@ -26,6 +26,7 @@ public class InventorySlotDebug : MonoBehaviour
 
     public void OnSlotClicked()
     {
+        // Debug.Log("Slot clicked with mask: " + (maskItem != null ? maskItem.maskName : "None"));
         if (maskItem == null || npcReceiver == null)
             return;
 
