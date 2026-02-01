@@ -304,10 +304,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FinalSceneManager
   finalAnimator: {fileID: 2080840426}
+  finalSpriteRenderer: {fileID: 2080840428}
   finalBad: {fileID: 9100000, guid: 36d3ee3a0e1245647a5e49fcb738a87e, type: 2}
+  spriteFinalBad: {fileID: 21300000, guid: eede60cd08faaa34da8f78622acd7188, type: 3}
   finalNormal: {fileID: 9100000, guid: 6fbdefed95c1cf34483c97c3e9b4c1b3, type: 2}
+  spriteFinalNormal: {fileID: 21300000, guid: 47f230de991064e4192e43341deae544, type: 3}
   finalGood: {fileID: 9100000, guid: b11e5e116b09add4d9f99190307f5986, type: 2}
+  spriteFinalGood: {fileID: 21300000, guid: 3c9efb5ac60ba954e8e7ba64ac7eb0ce, type: 3}
   finalPerfect: {fileID: 9100000, guid: d6dacae019e65d6449e58cca26f9b5b3, type: 2}
+  spriteFinalPerfect: {fileID: 21300000, guid: e5f4543fdc8e1f0428578a595779cfd8, type: 3}
   musicSource: {fileID: 972375873}
   musicBad: {fileID: 8300000, guid: f954ae3b6ed3bd84ca220d8f41539ce2, type: 3}
   musicNormal: {fileID: 8300000, guid: ab5c6d9c36194c44aa6da20c6e4a7209, type: 3}
@@ -754,7 +759,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2080840425}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 0}
   m_CullingMode: 0
