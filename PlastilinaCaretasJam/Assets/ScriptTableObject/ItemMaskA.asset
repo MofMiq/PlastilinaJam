@@ -16,7 +16,7 @@ MonoBehaviour:
   icon: {fileID: 21300000, guid: d14a4eb3663018e44b6e726b1fb7faf7, type: 3}
   orugaAnimator: {fileID: 9100000, guid: 4ab6c204a75253d42b27b0689d3a01af, type: 2}
   cuneiformeAnimator: {fileID: 9100000, guid: 342b731c6f15f534f9dfc2c8719114b8, type: 2}
-  pescaoAnimator: {fileID: 9100000, guid: 5325ae7fc5d46724aa36f1542ff22d3b, type: 2}
+  pescaoAnimator: {fileID: 9100000, guid: 45e27d5574c6a354da1a4730e7cbbdc4, type: 2}
   oruga: 4
   cuneiforme: 2
   pescao: 2
