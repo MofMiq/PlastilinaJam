@@ -938,6 +938,7 @@ MonoBehaviour:
   maskItem: {fileID: 11400000, guid: adcf1a0a397356d49beb63b7380121d8, type: 2}
   npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 959117243}
+  slotIndex: 0
 --- !u!114 &959117243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1171,7 +1172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd0f70b0a939b7c419b05e022ed10224, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCMaskReceiver
-  rewardMask: {fileID: 11400000, guid: 6460bb30927ea514193b10dbf85b9e61, type: 2}
+  rewardMask: {fileID: 11400000, guid: cd17cb9a9f15eb8438231b568e57a6ec, type: 2}
   npcSpriteRenderer: {fileID: 1040450950}
   npcDialog: {fileID: 1040450952}
 --- !u!212 &1040450950
@@ -1803,6 +1804,7 @@ MonoBehaviour:
   maskItem: {fileID: 11400000, guid: 5a1d16faa9c99794d8a56020a1206df3, type: 2}
   npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 1293349851}
+  slotIndex: 2
 --- !u!114 &1293349851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1962,6 +1964,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   totalScore: 0
+  savedInventory: []
 --- !u!4 &1443623610
 Transform:
   m_ObjectHideFlags: 0
@@ -2328,6 +2331,7 @@ MonoBehaviour:
   maskItem: {fileID: 11400000, guid: e5ef637197a0f844a891cfd0e6c893fe, type: 2}
   npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 1912448576}
+  slotIndex: 1
 --- !u!114 &1912448576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2477,6 +2481,7 @@ MonoBehaviour:
   maskItem: {fileID: 11400000, guid: 5aceb3c0930ff25488ae5ae65f0e742a, type: 2}
   npcReceiver: {fileID: 1040450949}
   iconImage: {fileID: 2020074576}
+  slotIndex: 3
 --- !u!114 &2020074576
 MonoBehaviour:
   m_ObjectHideFlags: 0
