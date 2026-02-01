@@ -12,6 +12,10 @@ public class MaskItem : ScriptableObject
     public int cuneiforme;
     public int pescao;
 
+    public string responseOruga;
+    public string responseCuneiforme;
+    public string responsePescao;
+
     // 🔽 MÉTODO CLAVE
     public int GetValueForNPC(string npcName)
     {
@@ -29,6 +33,25 @@ public class MaskItem : ScriptableObject
             default:
                 Debug.LogWarning("NPC no reconocido: " + npcName);
                 return 0;
+        }
+    }
+
+    public string GetResponseForNPC(string npcName)
+    {
+        switch (npcName)
+        {
+            case "Oruga":
+                return responseOruga;
+
+            case "Cuneiforme":
+                return responseCuneiforme;
+
+            case "Pescao":
+                return responsePescao;
+
+            default:
+                Debug.LogWarning("NPC no reconocido: " + npcName);
+                return "";
         }
     }
 }

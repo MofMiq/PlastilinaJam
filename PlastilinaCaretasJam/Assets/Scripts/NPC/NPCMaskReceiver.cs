@@ -37,7 +37,7 @@ public class NPCMaskReceiver : MonoBehaviour
 
         GameManager.Instance.AddScore(value);
 
-        npcDialog.StartResponseDialog();
+        npcDialog.StartResponseDialog(givenMask);
 
         return rewardMask;
     }
