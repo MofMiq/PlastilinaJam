@@ -310,8 +310,8 @@ MonoBehaviour:
   finalPerfect: {fileID: 9100000, guid: d6dacae019e65d6449e58cca26f9b5b3, type: 2}
   musicSource: {fileID: 972375873}
   musicBad: {fileID: 8300000, guid: f954ae3b6ed3bd84ca220d8f41539ce2, type: 3}
-  musicNormal: {fileID: 8300000, guid: ca326213a4e270f4c9cf7d7414fadf1f, type: 3}
-  musicGood: {fileID: 8300000, guid: ab5c6d9c36194c44aa6da20c6e4a7209, type: 3}
+  musicNormal: {fileID: 8300000, guid: ab5c6d9c36194c44aa6da20c6e4a7209, type: 3}
+  musicGood: {fileID: 8300000, guid: ca326213a4e270f4c9cf7d7414fadf1f, type: 3}
   musicPerfect: {fileID: 8300000, guid: 54642fdd88b3b75499fd7aa168ffaac6, type: 3}
   thresholdNormal: 4
   thresholdGood: 8
