@@ -634,6 +634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogUI
   dialogText: {fileID: 1403860388}
+  typewriterSpeed: 30
 --- !u!222 &1303509894
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -771,6 +772,7 @@ GameObject:
   - component: {fileID: 1403860387}
   - component: {fileID: 1403860389}
   - component: {fileID: 1403860388}
+  - component: {fileID: 1403860390}
   m_Layer: 5
   m_Name: DialogText (TMP)
   m_TagString: Untagged
@@ -817,8 +819,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ok, toca ponerse en marcha, hoy va a ser un d\xEDa genial, seguro que
-    consigo repartir muchas m\xE1scaras."
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
   m_sharedMaterial: {fileID: 5733641925343589023, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
@@ -898,6 +899,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1403860386}
   m_CullTransparentMesh: 1
+--- !u!114 &1403860390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1403860386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbac22196262eee4dbca6d6a9e1864e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TypewriterText
+  fullText: "Ok, toca ponerse en marcha, hoy va a ser un d\xEDa genial, seguro que
+    consigo repartir muchas m\xE1scaras."
+  typewriterSpeed: 30
+  playOnStart: 1
 --- !u!1 &1691671611
 GameObject:
   m_ObjectHideFlags: 0
