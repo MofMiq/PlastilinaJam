@@ -3,14 +3,14 @@ using UnityEngine.UI;
 
 public class FinalSceneManager : MonoBehaviour
 {
-    [Header("Imagen Final")]
-    public Image finalImage;
+    [Header("Animator Final")]
+    public Animator finalAnimator;
 
-    [Header("Sprites de Finales")]
-    public Sprite finalBad;       // Score muy bajo
-    public Sprite finalNormal;    // Score bajo-medio
-    public Sprite finalGood;      // Score medio-alto
-    public Sprite finalPerfect;   // Score máximo
+    [Header("Animators de Finales")]
+    public RuntimeAnimatorController finalBad;       // Score muy bajo
+    public RuntimeAnimatorController finalNormal;    // Score bajo-medio
+    public RuntimeAnimatorController finalGood;      // Score medio-alto
+    public RuntimeAnimatorController finalPerfect;   // Score máximo
 
     [Header("Música de Finales")]
     public AudioSource musicSource;
@@ -43,16 +43,16 @@ public class FinalSceneManager : MonoBehaviour
             Debug.LogWarning("GameManager no encontrado. Usando score 0.");
         }
 
-        // Seleccionar sprite según el score
-        Sprite selectedSprite = GetFinalSprite(score);
+        // Seleccionar animator según el score
+        RuntimeAnimatorController selectedAnimator = GetFinalAnimator(score);
 
-        if (finalImage != null && selectedSprite != null)
+        if (finalAnimator != null && selectedAnimator != null)
         {
-            finalImage.sprite = selectedSprite;
+            finalAnimator.runtimeAnimatorController = selectedAnimator;
         }
     }
 
-    Sprite GetFinalSprite(int score)
+    RuntimeAnimatorController GetFinalAnimator(int score)
     {
         if (score >= thresholdPerfect)
         {
