@@ -34,6 +34,10 @@ public class NPCMaskReceiver : MonoBehaviour
         SetNPCMaskVisual(givenMask);
 
         Debug.Log("NPC gives back mask: " + rewardMask.maskName);
+        if (rewardMask.maskName == "InvisibleMask")
+        {
+            Debug.Log("AAAA");
+        }
 
         GameManager.Instance.AddScore(value);
 
