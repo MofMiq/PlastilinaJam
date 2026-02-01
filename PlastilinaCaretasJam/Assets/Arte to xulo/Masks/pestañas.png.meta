@@ -1,0 +1,5304 @@
+fileFormatVersion: 2
+guid: 45a49b7f7ab04f14f83f8f93f583c30a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2653926441361353235
+    second: "pesta\xF1as_0"
+  - first:
+      213: -819766502396666412
+    second: "pesta\xF1as_1"
+  - first:
+      213: 4502957101180710909
+    second: "pesta\xF1as_2"
+  - first:
+      213: -3679060396763233590
+    second: "pesta\xF1as_3"
+  - first:
+      213: -2942477697803207932
+    second: "pesta\xF1as_4"
+  - first:
+      213: -1742152266338596493
+    second: "pesta\xF1as_5"
+  - first:
+      213: -8206147059051536821
+    second: "pesta\xF1as_6"
+  - first:
+      213: 3722640651691747028
+    second: "pesta\xF1as_7"
+  - first:
+      213: 7393166293033854423
+    second: "pesta\xF1as_8"
+  - first:
+      213: -8285502984900472089
+    second: "pesta\xF1as_9"
+  - first:
+      213: 4166177766903528800
+    second: "pesta\xF1as_10"
+  - first:
+      213: 1156066825639715350
+    second: "pesta\xF1as_11"
+  - first:
+      213: 6753867455701579130
+    second: "pesta\xF1as_12"
+  - first:
+      213: 2503503646952231359
+    second: "pesta\xF1as_13"
+  - first:
+      213: -6421367478415131719
+    second: "pesta\xF1as_14"
+  - first:
+      213: 8596745522961573093
+    second: "pesta\xF1as_15"
+  - first:
+      213: -8688150976728780978
+    second: "pesta\xF1as_16"
+  - first:
+      213: 2098385925210623101
+    second: "pesta\xF1as_17"
+  - first:
+      213: 8625137725011033214
+    second: "pesta\xF1as_18"
+  - first:
+      213: 3696880633795464169
+    second: "pesta\xF1as_19"
+  - first:
+      213: -9123230910408908306
+    second: "pesta\xF1as_20"
+  - first:
+      213: 745208963074971606
+    second: "pesta\xF1as_21"
+  - first:
+      213: -4892542537381395336
+    second: "pesta\xF1as_22"
+  - first:
+      213: 6885923737237562940
+    second: "pesta\xF1as_23"
+  - first:
+      213: -3713151978769831470
+    second: "pesta\xF1as_24"
+  - first:
+      213: -6905753611532398337
+    second: "pesta\xF1as_25"
+  - first:
+      213: 227955836657092776
+    second: "pesta\xF1as_26"
+  - first:
+      213: 832220002998430339
+    second: "pesta\xF1as_27"
+  - first:
+      213: 4336656569645428734
+    second: "pesta\xF1as_28"
+  - first:
+      213: 2928802368576045260
+    second: "pesta\xF1as_29"
+  - first:
+      213: 1985399744333826608
+    second: "pesta\xF1as_30"
+  - first:
+      213: -6629771644450135456
+    second: "pesta\xF1as_31"
+  - first:
+      213: 8627084758996795975
+    second: "pesta\xF1as_32"
+  - first:
+      213: -8745654059690911790
+    second: "pesta\xF1as_33"
+  - first:
+      213: 5134159283709138630
+    second: "pesta\xF1as_34"
+  - first:
+      213: 989978509119015781
+    second: "pesta\xF1as_35"
+  - first:
+      213: 127174956905222425
+    second: "pesta\xF1as_36"
+  - first:
+      213: -3359249963028263101
+    second: "pesta\xF1as_37"
+  - first:
+      213: -2304280356630204306
+    second: "pesta\xF1as_38"
+  - first:
+      213: 1811741355086529570
+    second: "pesta\xF1as_39"
+  - first:
+      213: -5057714350213762575
+    second: "pesta\xF1as_40"
+  - first:
+      213: -8484194903138183837
+    second: "pesta\xF1as_41"
+  - first:
+      213: 2735799181956913079
+    second: "pesta\xF1as_42"
+  - first:
+      213: 6730613104443136615
+    second: "pesta\xF1as_43"
+  - first:
+      213: -4952762618493789143
+    second: "pesta\xF1as_44"
+  - first:
+      213: 2260435861123147119
+    second: "pesta\xF1as_45"
+  - first:
+      213: 6062721593119352025
+    second: "pesta\xF1as_46"
+  - first:
+      213: 4910905380481386814
+    second: "pesta\xF1as_47"
+  - first:
+      213: 6027813715007644341
+    second: "pesta\xF1as_48"
+  - first:
+      213: 6908882831875314510
+    second: "pesta\xF1as_49"
+  - first:
+      213: 7846234900002089422
+    second: "pesta\xF1as_50"
+  - first:
+      213: -739151470196478114
+    second: "pesta\xF1as_51"
+  - first:
+      213: -7579205695523495779
+    second: "pesta\xF1as_52"
+  - first:
+      213: -2776071060048208875
+    second: "pesta\xF1as_53"
+  - first:
+      213: 2680155612917746971
+    second: "pesta\xF1as_54"
+  - first:
+      213: 4846112107461261814
+    second: "pesta\xF1as_55"
+  - first:
+      213: 4149692398893975669
+    second: "pesta\xF1as_56"
+  - first:
+      213: 6991070486936509492
+    second: "pesta\xF1as_57"
+  - first:
+      213: -5017314140463389827
+    second: "pesta\xF1as_58"
+  - first:
+      213: 7099584788834796766
+    second: "pesta\xF1as_59"
+  - first:
+      213: 5245924532774080596
+    second: "pesta\xF1as_60"
+  - first:
+      213: -4678373528033084756
+    second: "pesta\xF1as_61"
+  - first:
+      213: 6385521354357964652
+    second: "pesta\xF1as_62"
+  - first:
+      213: 4426388923379115479
+    second: "pesta\xF1as_63"
+  - first:
+      213: -8102051258778527108
+    second: "pesta\xF1as_64"
+  - first:
+      213: -3268675064731047801
+    second: "pesta\xF1as_65"
+  - first:
+      213: 8331210608683578407
+    second: "pesta\xF1as_66"
+  - first:
+      213: -8319455662736445743
+    second: "pesta\xF1as_67"
+  - first:
+      213: -8210353224001276560
+    second: "pesta\xF1as_68"
+  - first:
+      213: -2059228417662910171
+    second: "pesta\xF1as_69"
+  - first:
+      213: 6992234191070096511
+    second: "pesta\xF1as_70"
+  - first:
+      213: 4190444266303737278
+    second: "pesta\xF1as_71"
+  - first:
+      213: 7999700346755010492
+    second: "pesta\xF1as_72"
+  - first:
+      213: -7218469363346031967
+    second: "pesta\xF1as_73"
+  - first:
+      213: 775867273256654836
+    second: "pesta\xF1as_74"
+  - first:
+      213: 4978806110955289139
+    second: "pesta\xF1as_75"
+  - first:
+      213: -6360224485927227922
+    second: "pesta\xF1as_76"
+  - first:
+      213: -651545848412972665
+    second: "pesta\xF1as_77"
+  - first:
+      213: -3036148490882376797
+    second: "pesta\xF1as_78"
+  - first:
+      213: 7311910727370067119
+    second: "pesta\xF1as_79"
+  - first:
+      213: -8621079727396430549
+    second: "pesta\xF1as_80"
+  - first:
+      213: 3747065365189861740
+    second: "pesta\xF1as_81"
+  - first:
+      213: 5139741909484692978
+    second: "pesta\xF1as_82"
+  - first:
+      213: -6666889400241568913
+    second: "pesta\xF1as_83"
+  - first:
+      213: -5957902325777432356
+    second: "pesta\xF1as_84"
+  - first:
+      213: -4617997549025294158
+    second: "pesta\xF1as_85"
+  - first:
+      213: 3468367286835029009
+    second: "pesta\xF1as_86"
+  - first:
+      213: -219207563899471203
+    second: "pesta\xF1as_87"
+  - first:
+      213: 5925244661914652011
+    second: "pesta\xF1as_88"
+  - first:
+      213: -5670519207550869247
+    second: "pesta\xF1as_89"
+  - first:
+      213: -1000945999697701723
+    second: "pesta\xF1as_90"
+  - first:
+      213: 5753212342042823409
+    second: "pesta\xF1as_91"
+  - first:
+      213: -6746018718634901179
+    second: "pesta\xF1as_92"
+  - first:
+      213: 5817758157320941544
+    second: "pesta\xF1as_93"
+  - first:
+      213: 874857108633162621
+    second: "pesta\xF1as_94"
+  - first:
+      213: -50469725686132663
+    second: "pesta\xF1as_95"
+  - first:
+      213: -4096200427955758112
+    second: "pesta\xF1as_96"
+  - first:
+      213: -5310507384799117117
+    second: "pesta\xF1as_97"
+  - first:
+      213: 4398794519113336306
+    second: "pesta\xF1as_98"
+  - first:
+      213: 4372964280109360425
+    second: "pesta\xF1as_99"
+  - first:
+      213: 5670245794569194332
+    second: "pesta\xF1as_100"
+  - first:
+      213: -2856154286403409649
+    second: "pesta\xF1as_101"
+  - first:
+      213: 4316365915727992720
+    second: "pesta\xF1as_102"
+  - first:
+      213: 4262532770066882230
+    second: "pesta\xF1as_103"
+  - first:
+      213: 2962436603616619069
+    second: "pesta\xF1as_104"
+  - first:
+      213: 900902613071068545
+    second: "pesta\xF1as_105"
+  - first:
+      213: -4044372171161429429
+    second: "pesta\xF1as_106"
+  - first:
+      213: -570070241568152983
+    second: "pesta\xF1as_107"
+  - first:
+      213: -1220358796225951091
+    second: "pesta\xF1as_108"
+  - first:
+      213: -4596001526674953632
+    second: "pesta\xF1as_109"
+  - first:
+      213: 5344331050151928033
+    second: "pesta\xF1as_110"
+  - first:
+      213: 6614416576406005819
+    second: "pesta\xF1as_111"
+  - first:
+      213: -6925831183847663003
+    second: "pesta\xF1as_112"
+  - first:
+      213: -5967049960677510647
+    second: "pesta\xF1as_113"
+  - first:
+      213: 2693582162208509984
+    second: "pesta\xF1as_114"
+  - first:
+      213: -5159032166515113828
+    second: "pesta\xF1as_115"
+  - first:
+      213: -6325201779982680814
+    second: "pesta\xF1as_116"
+  - first:
+      213: 1366726326245500136
+    second: "pesta\xF1as_117"
+  - first:
+      213: -8391603579784984765
+    second: "pesta\xF1as_118"
+  - first:
+      213: 4780066781741144973
+    second: "pesta\xF1as_119"
+  - first:
+      213: 2224597747701645661
+    second: "pesta\xF1as_120"
+  - first:
+      213: 3813955153673785440
+    second: "pesta\xF1as_121"
+  - first:
+      213: -1523371233080544151
+    second: "pesta\xF1as_122"
+  - first:
+      213: -1438073009580896346
+    second: "pesta\xF1as_123"
+  - first:
+      213: -6840245606863252383
+    second: "pesta\xF1as_124"
+  - first:
+      213: 4739067295658762889
+    second: "pesta\xF1as_125"
+  - first:
+      213: -3159101570687319026
+    second: "pesta\xF1as_126"
+  - first:
+      213: 8912790423257653858
+    second: "pesta\xF1as_127"
+  - first:
+      213: -82734982873689835
+    second: "pesta\xF1as_128"
+  - first:
+      213: -4648885192757105361
+    second: "pesta\xF1as_129"
+  - first:
+      213: 1393516184196845243
+    second: "pesta\xF1as_130"
+  - first:
+      213: -3752554745579858781
+    second: "pesta\xF1as_131"
+  - first:
+      213: 1720449551355709978
+    second: "pesta\xF1as_132"
+  - first:
+      213: 6143912955735171821
+    second: "pesta\xF1as_133"
+  - first:
+      213: 5064058799355715726
+    second: "pesta\xF1as_134"
+  - first:
+      213: -1027135323339565854
+    second: "pesta\xF1as_135"
+  - first:
+      213: -8304818977866317467
+    second: "pesta\xF1as_136"
+  - first:
+      213: 5476461939902547124
+    second: "pesta\xF1as_137"
+  - first:
+      213: 253049395391280665
+    second: "pesta\xF1as_138"
+  - first:
+      213: -1260246424180047930
+    second: "pesta\xF1as_139"
+  - first:
+      213: 9010816881373500153
+    second: "pesta\xF1as_140"
+  - first:
+      213: -2599398166882802125
+    second: "pesta\xF1as_141"
+  - first:
+      213: 239822882132358452
+    second: "pesta\xF1as_142"
+  - first:
+      213: -5628193619784376864
+    second: "pesta\xF1as_143"
+  - first:
+      213: -8140261574616847868
+    second: "pesta\xF1as_144"
+  - first:
+      213: 2022619072169081343
+    second: "pesta\xF1as_145"
+  - first:
+      213: 8105626638937947988
+    second: "pesta\xF1as_146"
+  - first:
+      213: -6368213191393075097
+    second: "pesta\xF1as_147"
+  - first:
+      213: 8299211522185985539
+    second: "pesta\xF1as_148"
+  - first:
+      213: -3959330242758578490
+    second: "pesta\xF1as_149"
+  - first:
+      213: -636384170713837364
+    second: "pesta\xF1as_150"
+  - first:
+      213: -3741965003283229137
+    second: "pesta\xF1as_151"
+  - first:
+      213: -5238111686723157425
+    second: "pesta\xF1as_152"
+  - first:
+      213: -5154735067685061595
+    second: "pesta\xF1as_153"
+  - first:
+      213: -6130695164659132772
+    second: "pesta\xF1as_154"
+  - first:
+      213: -5827560952027361969
+    second: "pesta\xF1as_155"
+  - first:
+      213: -9045593798906287142
+    second: "pesta\xF1as_156"
+  - first:
+      213: -8960468608818628228
+    second: "pesta\xF1as_157"
+  - first:
+      213: -2065925920337432113
+    second: "pesta\xF1as_158"
+  - first:
+      213: 5715344581758026539
+    second: "pesta\xF1as_159"
+  - first:
+      213: 197363753690424085
+    second: "pesta\xF1as_160"
+  - first:
+      213: 4411364354617602529
+    second: "pesta\xF1as_161"
+  - first:
+      213: 6052733771286310794
+    second: "pesta\xF1as_162"
+  - first:
+      213: 2925037880398028026
+    second: "pesta\xF1as_163"
+  - first:
+      213: 1820481203920565923
+    second: "pesta\xF1as_164"
+  - first:
+      213: -6570881386505176885
+    second: "pesta\xF1as_165"
+  - first:
+      213: -1256125775710713002
+    second: "pesta\xF1as_166"
+  - first:
+      213: 3817635931674289369
+    second: "pesta\xF1as_167"
+  - first:
+      213: -9119250516164535510
+    second: "pesta\xF1as_168"
+  - first:
+      213: 6293933109527764927
+    second: "pesta\xF1as_169"
+  - first:
+      213: 7795067201361970792
+    second: "pesta\xF1as_170"
+  - first:
+      213: -745055168422577023
+    second: "pesta\xF1as_171"
+  - first:
+      213: -2227588723710340086
+    second: "pesta\xF1as_172"
+  - first:
+      213: -1506143509781216182
+    second: "pesta\xF1as_173"
+  - first:
+      213: -3075542928514852291
+    second: "pesta\xF1as_174"
+  - first:
+      213: -5182412074041585365
+    second: "pesta\xF1as_175"
+  - first:
+      213: -6514253644558128493
+    second: "pesta\xF1as_176"
+  - first:
+      213: 4159288578133945181
+    second: "pesta\xF1as_177"
+  - first:
+      213: 647885756588415161
+    second: "pesta\xF1as_178"
+  - first:
+      213: 3316620749165992205
+    second: "pesta\xF1as_179"
+  - first:
+      213: -80153016100888610
+    second: "pesta\xF1as_180"
+  - first:
+      213: 3407330397691537010
+    second: "pesta\xF1as_181"
+  - first:
+      213: -940363266779011201
+    second: "pesta\xF1as_182"
+  - first:
+      213: -4218410326464403373
+    second: "pesta\xF1as_183"
+  - first:
+      213: 9061141424117370730
+    second: "pesta\xF1as_184"
+  - first:
+      213: -6238547123285361342
+    second: "pesta\xF1as_185"
+  - first:
+      213: -4842670558870868002
+    second: "pesta\xF1as_186"
+  - first:
+      213: 9096126594643796976
+    second: "pesta\xF1as_187"
+  - first:
+      213: -4695637723649068596
+    second: "pesta\xF1as_188"
+  - first:
+      213: -1087024047315084762
+    second: "pesta\xF1as_189"
+  - first:
+      213: 6106795200132315046
+    second: "pesta\xF1as_190"
+  - first:
+      213: 756531494864552820
+    second: "pesta\xF1as_191"
+  - first:
+      213: -3695438784196931381
+    second: "pesta\xF1as_192"
+  - first:
+      213: -2381004955947996601
+    second: "pesta\xF1as_193"
+  - first:
+      213: -1065719706446900336
+    second: "pesta\xF1as_194"
+  - first:
+      213: -2676715998606418375
+    second: "pesta\xF1as_195"
+  - first:
+      213: 8501289245107539992
+    second: "pesta\xF1as_196"
+  - first:
+      213: -3206569879854660381
+    second: "pesta\xF1as_197"
+  - first:
+      213: 2055743412971508817
+    second: "pesta\xF1as_198"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pesta\xF1as_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3182
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d3a276fb5b2bd0800000000000000
+      internalID: -2653926441361353235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_1"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3283
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddd1e995ba9f94f0800000000000000
+      internalID: -819766502396666412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_2"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3207
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe2b630a7bd7e30800000000000000
+      internalID: 4502957101180710909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_3"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3249
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac248b7cf0a51fcc0800000000000000
+      internalID: -3679060396763233590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_4"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3eeeaf183a27d0800000000000000
+      internalID: -2942477697803207932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_5"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3230
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3790f3c7eb1a2d7e0800000000000000
+      internalID: -1742152266338596493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_6"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3189
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4edd925ab8ed1e80800000000000000
+      internalID: -8206147059051536821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_7"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6e38603f979a330800000000000000
+      internalID: 3722640651691747028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_8"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3228
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5aca5a29dc99660800000000000000
+      internalID: 7393166293033854423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_9"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e291970feaf30d80800000000000000
+      internalID: -8285502984900472089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_10"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3186
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3a6b0b9c31d930800000000000000
+      internalID: 4166177766903528800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_11"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3255
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6126ede17ac2b0010800000000000000
+      internalID: 1156066825639715350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_12"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75f92ddaae8abd50800000000000000
+      internalID: 6753867455701579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_13"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3235
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb19b728d4b3eb220800000000000000
+      internalID: 2503503646952231359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_14"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbf1dcdc48b2e6a0800000000000000
+      internalID: -6421367478415131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_15"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3251
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ed807186cd4770800000000000000
+      internalID: 8596745522961573093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_16"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3353
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2e1de7bc7d6780800000000000000
+      internalID: -8688150976728780978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_17"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ccbd991e6fe1d10800000000000000
+      internalID: 2098385925210623101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_18"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3367
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7a1e1015a2b770800000000000000
+      internalID: 8625137725011033214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_19"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3298
+        width: 11
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb466a7955fd4330800000000000000
+      internalID: 3696880633795464169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_20"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3241
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a63de2d5c36180800000000000000
+      internalID: -9123230910408908306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_21"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3149
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d755878a93875a00800000000000000
+      internalID: 745208963074971606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_22"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3355
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c4eaeb723a1cb0800000000000000
+      internalID: -4892542537381395336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_23"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3185
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36a974e727bf8f50800000000000000
+      internalID: 6885923737237562940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_24"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3183
+        width: 175
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9a26cc2fb387cc0800000000000000
+      internalID: -3713151978769831470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_25"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3191
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09d36bda5d920a0800000000000000
+      internalID: -6905753611532398337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_26"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3174
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a84c6c20acd92300800000000000000
+      internalID: 227955836657092776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_27"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3156
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a22b5fea3ac8b00800000000000000
+      internalID: 832220002998430339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_28"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3250
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff649a6c26ee2c30800000000000000
+      internalID: 4336656569645428734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_29"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04c4c9c3235a820800000000000000
+      internalID: 2928802368576045260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_30"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a4b226c8e8d8b10800000000000000
+      internalID: 1985399744333826608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_31"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3136
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062a79eb0d15ef3a0800000000000000
+      internalID: -6629771644450135456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_32"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3136
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742c03b41ef89b770800000000000000
+      internalID: 8627084758996795975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_33"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3240
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79bab18f131a680800000000000000
+      internalID: -8745654059690911790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_34"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d1c5aaa2304740800000000000000
+      internalID: 5134159283709138630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_35"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3129
+        width: 581
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b4f4b753c1dbd00800000000000000
+      internalID: 989978509119015781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_36"
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91159a213f0d3c100800000000000000
+      internalID: 127174956905222425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_37"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fc4f9e4fb8161d0800000000000000
+      internalID: -3359249963028263101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_38"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3253
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e607528693d8500e0800000000000000
+      internalID: -2304280356630204306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_39"
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3377
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22441d6d929942910800000000000000
+      internalID: 1811741355086529570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_40"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3395
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1fc1c68936fc9b0800000000000000
+      internalID: -5057714350213762575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_41"
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3357
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d441dfa5124a80800000000000000
+      internalID: -8484194903138183837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_42"
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b798517cd287f520800000000000000
+      internalID: 2735799181956913079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_43"
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3219
+        width: 47
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a1cea45f0f76d50800000000000000
+      internalID: 6730613104443136615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_44"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3144
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c18dba3a0444bb0800000000000000
+      internalID: -4952762618493789143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_45"
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3125
+        width: 197
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65accb707eae5f10800000000000000
+      internalID: 2260435861123147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_46"
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 3219
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d428f1da2d132450800000000000000
+      internalID: 6062721593119352025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_47"
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c529ac6a072440800000000000000
+      internalID: 4910905380481386814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_48"
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3157
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2224713a817a350800000000000000
+      internalID: 6027813715007644341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_49"
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3218
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4319bca45841ef50800000000000000
+      internalID: 6908882831875314510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_50"
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 3286
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9a5e6021d63ec60800000000000000
+      internalID: 7846234900002089422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_51"
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3333
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2bbf67a10eb5f0800000000000000
+      internalID: -739151470196478114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_52"
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3151
+        width: 276
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9064b6839041d690800000000000000
+      internalID: -7579205695523495779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_53"
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 3320
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9592441a6979d0800000000000000
+      internalID: -2776071060048208875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_54"
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3388
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4bb27453d13520800000000000000
+      internalID: 2680155612917746971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_55"
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 2023
+        width: 517
+        height: 1507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b2f23949d04340800000000000000
+      internalID: 4846112107461261814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_56"
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 3286
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578c633304ba69930800000000000000
+      internalID: 4149692398893975669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_57"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3089
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c519d4195450160800000000000000
+      internalID: 6991070486936509492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_58"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3106
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73a2234f5bee5ab0800000000000000
+      internalID: -5017314140463389827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_59"
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3133
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4c34f00cac68260800000000000000
+      internalID: 7099584788834796766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_60"
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3132
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450918681944dc840800000000000000
+      internalID: 5245924532774080596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_61"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 2117
+        height: 3127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3ff63014131fb0800000000000000
+      internalID: -4678373528033084756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_62"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 3116
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f7d2007dded9850800000000000000
+      internalID: 6385521354357964652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_63"
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3109
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56cb71641bd6d30800000000000000
+      internalID: 4426388923379115479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_64"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3067
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7adf708e4bbf8f80800000000000000
+      internalID: -8102051258778527108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_65"
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 3034
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886788c85553a2d0800000000000000
+      internalID: -3268675064731047801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_66"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3019
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724fc8f68e76e9370800000000000000
+      internalID: 8331210608683578407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_67"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2965
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6bf1372b5b8c80800000000000000
+      internalID: -8319455662736445743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_68"
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2943
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075bbea3e37fe0e80800000000000000
+      internalID: -8210353224001276560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_69"
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2908
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52100d51aa62c63e0800000000000000
+      internalID: -2059228417662910171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_70"
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2887
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce21943f7690160800000000000000
+      internalID: 6992234191070096511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_71"
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 2857
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd4b18bbd2772a30800000000000000
+      internalID: 4190444266303737278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_72"
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 2834
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc6e5c415a40f60800000000000000
+      internalID: 7999700346755010492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_73"
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2721
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa38bfeb58d2db90800000000000000
+      internalID: -7218469363346031967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_74"
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2698
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7505f9c2f64ca00800000000000000
+      internalID: 775867273256654836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_75"
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2701
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab80177c5481540800000000000000
+      internalID: 4978806110955289139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_76"
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2620
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede0982781fbb7a0800000000000000
+      internalID: -6360224485927227922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_77"
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2585
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789d67eb08e35f6f0800000000000000
+      internalID: -651545848412972665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_78"
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2587
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab1e93a80f6dd5d0800000000000000
+      internalID: -3036148490882376797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_79"
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 2553
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc24ef010297560800000000000000
+      internalID: 7311910727370067119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_80"
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 2544
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd6341aa5cb5880800000000000000
+      internalID: -8621079727396430549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_81"
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 2486
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61af4ac810400430800000000000000
+      internalID: 3747065365189861740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_82"
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2475
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e5000908045740800000000000000
+      internalID: 5139741909484692978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_83"
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2475
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c8c5c9637a73a0800000000000000
+      internalID: -6666889400241568913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_84"
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 2428
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd00099a667415da0800000000000000
+      internalID: -5957902325777432356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_85"
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2396
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b809b442b399efb0800000000000000
+      internalID: -4617997549025294158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_86"
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142362dbad122030800000000000000
+      internalID: 3468367286835029009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_87"
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2338
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a71bdc1e735fcf0800000000000000
+      internalID: -219207563899471203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_88"
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 2319
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc3b070a2ba3250800000000000000
+      internalID: 5925244661914652011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_89"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101a6ed03d44e41b0800000000000000
+      internalID: -5670519207550869247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_90"
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2322
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a49ba0aaeceb12f0800000000000000
+      internalID: -1000945999697701723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_91"
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa0bdca42487df40800000000000000
+      internalID: 5753212342042823409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_92"
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2289
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54181a3a7b35162a0800000000000000
+      internalID: -6746018718634901179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_93"
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2277
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efee346834dcb050800000000000000
+      internalID: 5817758157320941544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_94"
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2273
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d731e45b7ed142c00800000000000000
+      internalID: 874857108633162621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_95"
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 2248
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94011984d02bc4ff0800000000000000
+      internalID: -50469725686132663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_96"
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2244
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebd4e2d96f5727c0800000000000000
+      internalID: -4096200427955758112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_97"
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2231
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c5f77ba94d46b0800000000000000
+      internalID: -5310507384799117117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_98"
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2178
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f58faf2f48ab0d30800000000000000
+      internalID: 4398794519113336306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_99"
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e36308d3efac30800000000000000
+      internalID: 4372964280109360425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_100"
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b03760282c0be40800000000000000
+      internalID: 5670245794569194332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_101"
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 2186
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09273f1fc6ec58d0800000000000000
+      internalID: -2856154286403409649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_102"
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09712976eefc6eb30800000000000000
+      internalID: 4316365915727992720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_103"
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2114
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5c4378fe872b30800000000000000
+      internalID: 4262532770066882230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_104"
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 2136
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aee243560bc1920800000000000000
+      internalID: 2962436603616619069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_105"
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 2116
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d72554726a08c00800000000000000
+      internalID: 900902613071068545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_106"
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a927630f08fd7c0800000000000000
+      internalID: -4044372171161429429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_107"
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9622f4ab224b618f0800000000000000
+      internalID: -570070241568152983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_108"
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2063
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8acd6cf32a601fe0800000000000000
+      internalID: -1220358796225951091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_109"
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 2049
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae26f46f8b730c0800000000000000
+      internalID: -4596001526674953632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_110"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2037
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0656e46c0ea2a40800000000000000
+      internalID: 5344331050151928033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_111"
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2023
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a221e4d02bcb50800000000000000
+      internalID: 6614416576406005819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_112"
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1993
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56adf60ab3182ef90800000000000000
+      internalID: -6925831183847663003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_113"
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1950
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902fec0fca7c03da0800000000000000
+      internalID: -5967049960677510647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_114"
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1968
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02054cf84b6816520800000000000000
+      internalID: 2693582162208509984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_115"
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1944
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c908d0a049f6768b0800000000000000
+      internalID: -5159032166515113828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_116"
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1958
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21db6735e7e5838a0800000000000000
+      internalID: -6325201779982680814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_117"
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1965
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4a90d3a5697f210800000000000000
+      internalID: 1366726326245500136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_118"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1871
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347050b31090b8b80800000000000000
+      internalID: -8391603579784984765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_119"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1862
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b53508965365240800000000000000
+      internalID: 4780066781741144973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_120"
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1860
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5104e77ddb5fde10800000000000000
+      internalID: 2224597747701645661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_121"
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1919
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601ffb4104ede430800000000000000
+      internalID: 3813955153673785440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_122"
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1860
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9647f274fe5ebdae0800000000000000
+      internalID: -1523371233080544151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_123"
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1813
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af8ade8730fa0ce0800000000000000
+      internalID: -1438073009580896346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_124"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1759
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645d7a9cd09211a0800000000000000
+      internalID: -6840245606863252383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_125"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1775
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826964c89c84c140800000000000000
+      internalID: 4739067295658762889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_126"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1770
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04cdcdebdd9824d0800000000000000
+      internalID: -3159101570687319026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_127"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 837
+        width: 454
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a6cffaa790bb70800000000000000
+      internalID: 8912790423257653858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_128"
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1776
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511d05fa8f01adef0800000000000000
+      internalID: -82734982873689835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_129"
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1754
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da32c4c87db7fb0800000000000000
+      internalID: -4648885192757105361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_130"
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1708
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8fcb1693c65310800000000000000
+      internalID: 1393516184196845243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_131"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1744
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4918d375f3cebc0800000000000000
+      internalID: -3752554745579858781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_132"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1724
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a898a60c340e710800000000000000
+      internalID: 1720449551355709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_133"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1711
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e3890840934550800000000000000
+      internalID: 6143912955735171821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_134"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1614
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e941c5a6274640800000000000000
+      internalID: 5064058799355715726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_135"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1631
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d61c8dd1eeb1f0800000000000000
+      internalID: -1027135323339565854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_136"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1605
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5610b54f32b5fbc80800000000000000
+      internalID: -8304818977866317467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_137"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1654
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b486d96e1d400c40800000000000000
+      internalID: 5476461939902547124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_138"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1628
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916bcea9513038300800000000000000
+      internalID: 253049395391280665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_139"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1611
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfba45ed84b28ee0800000000000000
+      internalID: -1260246424180047930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_140"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1611
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25c56563adc0d70800000000000000
+      internalID: 9010816881373500153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_141"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1695
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362621b3251debd0800000000000000
+      internalID: -2599398166882802125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_142"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1670
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435728204a5045300800000000000000
+      internalID: 239822882132358452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_143"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1653
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd1a5e8b3a4e1b0800000000000000
+      internalID: -5628193619784376864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_144"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a63321a3bf70f80800000000000000
+      internalID: -8140261574616847868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_145"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff971907459c11c10800000000000000
+      internalID: 2022619072169081343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_146"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1694
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff6df8b78fc7070800000000000000
+      internalID: 8105626638937947988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_147"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1620
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7602f09b7df8f97a0800000000000000
+      internalID: -6368213191393075097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_148"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1675
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e79b788e8bc2370800000000000000
+      internalID: 8299211522185985539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_149"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee9e32f12ad09c0800000000000000
+      internalID: -3959330242758578490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_150"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1667
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc09bebe7fb1b27f0800000000000000
+      internalID: -636384170713837364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_151"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1679
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f261c51c7aed11cc0800000000000000
+      internalID: -3741965003283229137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_152"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f424b037c2d7e47b0800000000000000
+      internalID: -5238111686723157425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_153"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1590
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf16354c3b678b0800000000000000
+      internalID: -5154735067685061595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_154"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1543
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c969944ca356beaa0800000000000000
+      internalID: -6130695164659132772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_155"
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1588
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc87b9038502fa0800000000000000
+      internalID: -5827560952027361969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_156"
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1461
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe6b19d58977280800000000000000
+      internalID: -9045593798906287142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_157"
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1434
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79b35e564506a380800000000000000
+      internalID: -8960468608818628228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_158"
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1359
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1f30a325b5453e0800000000000000
+      internalID: -2065925920337432113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_159"
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1251
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2304acad9bf05f40800000000000000
+      internalID: 5715344581758026539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_160"
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1257
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513614ec94d2db200800000000000000
+      internalID: 197363753690424085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_161"
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17dc31280583d30800000000000000
+      internalID: 4411364354617602529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_162"
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1239
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fe785db41aff350800000000000000
+      internalID: 6052733771286310794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_163"
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1226
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9fa76472d79820800000000000000
+      internalID: 2925037880398028026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_164"
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1232
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f5f77206a34910800000000000000
+      internalID: 1820481203920565923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_165"
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1236
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8f128613a8fc4a0800000000000000
+      internalID: -6570881386505176885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_166"
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b0d812348519ee0800000000000000
+      internalID: -1256125775710713002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_167"
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1201
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a63537a7faf430800000000000000
+      internalID: 3817635931674289369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_168"
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1185
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b173ea8f9e17180800000000000000
+      internalID: -9119250516164535510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_169"
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd87101da885750800000000000000
+      internalID: 6293933109527764927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_170"
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1184
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8668a71d154ad2c60800000000000000
+      internalID: 7795067201361970792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_171"
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 1155
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7a14954809a5f0800000000000000
+      internalID: -745055168422577023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_172"
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1128
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045499abd30611e0800000000000000
+      internalID: -2227588723710340086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_173"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1022
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a440bbe257a191be0800000000000000
+      internalID: -1506143509781216182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_174"
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1026
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a586e500a7155d0800000000000000
+      internalID: -3075542928514852291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_175"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1009
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215e0f1daf5418b0800000000000000
+      internalID: -5182412074041585365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_176"
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 968
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa15303d8b895a0800000000000000
+      internalID: -6514253644558128493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_177"
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 969
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b630acce2c8b930800000000000000
+      internalID: 4159288578133945181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_178"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 910
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8dc78b9a0cdf800800000000000000
+      internalID: 647885756588415161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_179"
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 884
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d099ab8cff0070e20800000000000000
+      internalID: 3316620749165992205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_180"
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 842
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf51aba14d33eef0800000000000000
+      internalID: -80153016100888610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_181"
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 819
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766bc2a1f4494f20800000000000000
+      internalID: 3407330397691537010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_182"
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 818
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77afc3579823f2f0800000000000000
+      internalID: -940363266779011201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_183"
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 802
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ef3e78223575c0800000000000000
+      internalID: -4218410326464403373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_184"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 686
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc7140e14afbd70800000000000000
+      internalID: 9061141424117370730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_185"
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 731
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7a02d17a3c69a0800000000000000
+      internalID: -6238547123285361342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_186"
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 714
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6246c8c06bccb0800000000000000
+      internalID: -4842670558870868002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_187"
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 695
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32ab9c1feeb3e70800000000000000
+      internalID: 9096126594643796976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_188"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 677
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc139ff6e5eb5deb0800000000000000
+      internalID: -4695637723649068596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_189"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 641
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a1a75636d1ae0f0800000000000000
+      internalID: -1087024047315084762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_190"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 607
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a772fb11e1bfb450800000000000000
+      internalID: 6106795200132315046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_191"
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 578
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4730cc4e26dbf7a00800000000000000
+      internalID: 756531494864552820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_192"
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 445
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc09dba410a27bcc0800000000000000
+      internalID: -3695438784196931381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_193"
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 316
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a66409b98f4fed0800000000000000
+      internalID: -2381004955947996601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_194"
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 97
+        width: 119
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093591bc29dc531f0800000000000000
+      internalID: -1065719706446900336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_195"
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 245
+        width: 299
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e957a2bf46adad0800000000000000
+      internalID: -2676715998606418375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_196"
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 217
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810db73d685aaf570800000000000000
+      internalID: 8501289245107539992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_197"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4cbc3fea9ff73d0800000000000000
+      internalID: -3206569879854660381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pesta\xF1as_198"
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 99
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15414870eb7778c10800000000000000
+      internalID: 2055743412971508817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "pesta\xF1as_0": -2653926441361353235
+      "pesta\xF1as_1": -819766502396666412
+      "pesta\xF1as_10": 4166177766903528800
+      "pesta\xF1as_100": 5670245794569194332
+      "pesta\xF1as_101": -2856154286403409649
+      "pesta\xF1as_102": 4316365915727992720
+      "pesta\xF1as_103": 4262532770066882230
+      "pesta\xF1as_104": 2962436603616619069
+      "pesta\xF1as_105": 900902613071068545
+      "pesta\xF1as_106": -4044372171161429429
+      "pesta\xF1as_107": -570070241568152983
+      "pesta\xF1as_108": -1220358796225951091
+      "pesta\xF1as_109": -4596001526674953632
+      "pesta\xF1as_11": 1156066825639715350
+      "pesta\xF1as_110": 5344331050151928033
+      "pesta\xF1as_111": 6614416576406005819
+      "pesta\xF1as_112": -6925831183847663003
+      "pesta\xF1as_113": -5967049960677510647
+      "pesta\xF1as_114": 2693582162208509984
+      "pesta\xF1as_115": -5159032166515113828
+      "pesta\xF1as_116": -6325201779982680814
+      "pesta\xF1as_117": 1366726326245500136
+      "pesta\xF1as_118": -8391603579784984765
+      "pesta\xF1as_119": 4780066781741144973
+      "pesta\xF1as_12": 6753867455701579130
+      "pesta\xF1as_120": 2224597747701645661
+      "pesta\xF1as_121": 3813955153673785440
+      "pesta\xF1as_122": -1523371233080544151
+      "pesta\xF1as_123": -1438073009580896346
+      "pesta\xF1as_124": -6840245606863252383
+      "pesta\xF1as_125": 4739067295658762889
+      "pesta\xF1as_126": -3159101570687319026
+      "pesta\xF1as_127": 8912790423257653858
+      "pesta\xF1as_128": -82734982873689835
+      "pesta\xF1as_129": -4648885192757105361
+      "pesta\xF1as_13": 2503503646952231359
+      "pesta\xF1as_130": 1393516184196845243
+      "pesta\xF1as_131": -3752554745579858781
+      "pesta\xF1as_132": 1720449551355709978
+      "pesta\xF1as_133": 6143912955735171821
+      "pesta\xF1as_134": 5064058799355715726
+      "pesta\xF1as_135": -1027135323339565854
+      "pesta\xF1as_136": -8304818977866317467
+      "pesta\xF1as_137": 5476461939902547124
+      "pesta\xF1as_138": 253049395391280665
+      "pesta\xF1as_139": -1260246424180047930
+      "pesta\xF1as_14": -6421367478415131719
+      "pesta\xF1as_140": 9010816881373500153
+      "pesta\xF1as_141": -2599398166882802125
+      "pesta\xF1as_142": 239822882132358452
+      "pesta\xF1as_143": -5628193619784376864
+      "pesta\xF1as_144": -8140261574616847868
+      "pesta\xF1as_145": 2022619072169081343
+      "pesta\xF1as_146": 8105626638937947988
+      "pesta\xF1as_147": -6368213191393075097
+      "pesta\xF1as_148": 8299211522185985539
+      "pesta\xF1as_149": -3959330242758578490
+      "pesta\xF1as_15": 8596745522961573093
+      "pesta\xF1as_150": -636384170713837364
+      "pesta\xF1as_151": -3741965003283229137
+      "pesta\xF1as_152": -5238111686723157425
+      "pesta\xF1as_153": -5154735067685061595
+      "pesta\xF1as_154": -6130695164659132772
+      "pesta\xF1as_155": -5827560952027361969
+      "pesta\xF1as_156": -9045593798906287142
+      "pesta\xF1as_157": -8960468608818628228
+      "pesta\xF1as_158": -2065925920337432113
+      "pesta\xF1as_159": 5715344581758026539
+      "pesta\xF1as_16": -8688150976728780978
+      "pesta\xF1as_160": 197363753690424085
+      "pesta\xF1as_161": 4411364354617602529
+      "pesta\xF1as_162": 6052733771286310794
+      "pesta\xF1as_163": 2925037880398028026
+      "pesta\xF1as_164": 1820481203920565923
+      "pesta\xF1as_165": -6570881386505176885
+      "pesta\xF1as_166": -1256125775710713002
+      "pesta\xF1as_167": 3817635931674289369
+      "pesta\xF1as_168": -9119250516164535510
+      "pesta\xF1as_169": 6293933109527764927
+      "pesta\xF1as_17": 2098385925210623101
+      "pesta\xF1as_170": 7795067201361970792
+      "pesta\xF1as_171": -745055168422577023
+      "pesta\xF1as_172": -2227588723710340086
+      "pesta\xF1as_173": -1506143509781216182
+      "pesta\xF1as_174": -3075542928514852291
+      "pesta\xF1as_175": -5182412074041585365
+      "pesta\xF1as_176": -6514253644558128493
+      "pesta\xF1as_177": 4159288578133945181
+      "pesta\xF1as_178": 647885756588415161
+      "pesta\xF1as_179": 3316620749165992205
+      "pesta\xF1as_18": 8625137725011033214
+      "pesta\xF1as_180": -80153016100888610
+      "pesta\xF1as_181": 3407330397691537010
+      "pesta\xF1as_182": -940363266779011201
+      "pesta\xF1as_183": -4218410326464403373
+      "pesta\xF1as_184": 9061141424117370730
+      "pesta\xF1as_185": -6238547123285361342
+      "pesta\xF1as_186": -4842670558870868002
+      "pesta\xF1as_187": 9096126594643796976
+      "pesta\xF1as_188": -4695637723649068596
+      "pesta\xF1as_189": -1087024047315084762
+      "pesta\xF1as_19": 3696880633795464169
+      "pesta\xF1as_190": 6106795200132315046
+      "pesta\xF1as_191": 756531494864552820
+      "pesta\xF1as_192": -3695438784196931381
+      "pesta\xF1as_193": -2381004955947996601
+      "pesta\xF1as_194": -1065719706446900336
+      "pesta\xF1as_195": -2676715998606418375
+      "pesta\xF1as_196": 8501289245107539992
+      "pesta\xF1as_197": -3206569879854660381
+      "pesta\xF1as_198": 2055743412971508817
+      "pesta\xF1as_2": 4502957101180710909
+      "pesta\xF1as_20": -9123230910408908306
+      "pesta\xF1as_21": 745208963074971606
+      "pesta\xF1as_22": -4892542537381395336
+      "pesta\xF1as_23": 6885923737237562940
+      "pesta\xF1as_24": -3713151978769831470
+      "pesta\xF1as_25": -6905753611532398337
+      "pesta\xF1as_26": 227955836657092776
+      "pesta\xF1as_27": 832220002998430339
+      "pesta\xF1as_28": 4336656569645428734
+      "pesta\xF1as_29": 2928802368576045260
+      "pesta\xF1as_3": -3679060396763233590
+      "pesta\xF1as_30": 1985399744333826608
+      "pesta\xF1as_31": -6629771644450135456
+      "pesta\xF1as_32": 8627084758996795975
+      "pesta\xF1as_33": -8745654059690911790
+      "pesta\xF1as_34": 5134159283709138630
+      "pesta\xF1as_35": 989978509119015781
+      "pesta\xF1as_36": 127174956905222425
+      "pesta\xF1as_37": -3359249963028263101
+      "pesta\xF1as_38": -2304280356630204306
+      "pesta\xF1as_39": 1811741355086529570
+      "pesta\xF1as_4": -2942477697803207932
+      "pesta\xF1as_40": -5057714350213762575
+      "pesta\xF1as_41": -8484194903138183837
+      "pesta\xF1as_42": 2735799181956913079
+      "pesta\xF1as_43": 6730613104443136615
+      "pesta\xF1as_44": -4952762618493789143
+      "pesta\xF1as_45": 2260435861123147119
+      "pesta\xF1as_46": 6062721593119352025
+      "pesta\xF1as_47": 4910905380481386814
+      "pesta\xF1as_48": 6027813715007644341
+      "pesta\xF1as_49": 6908882831875314510
+      "pesta\xF1as_5": -1742152266338596493
+      "pesta\xF1as_50": 7846234900002089422
+      "pesta\xF1as_51": -739151470196478114
+      "pesta\xF1as_52": -7579205695523495779
+      "pesta\xF1as_53": -2776071060048208875
+      "pesta\xF1as_54": 2680155612917746971
+      "pesta\xF1as_55": 4846112107461261814
+      "pesta\xF1as_56": 4149692398893975669
+      "pesta\xF1as_57": 6991070486936509492
+      "pesta\xF1as_58": -5017314140463389827
+      "pesta\xF1as_59": 7099584788834796766
+      "pesta\xF1as_6": -8206147059051536821
+      "pesta\xF1as_60": 5245924532774080596
+      "pesta\xF1as_61": -4678373528033084756
+      "pesta\xF1as_62": 6385521354357964652
+      "pesta\xF1as_63": 4426388923379115479
+      "pesta\xF1as_64": -8102051258778527108
+      "pesta\xF1as_65": -3268675064731047801
+      "pesta\xF1as_66": 8331210608683578407
+      "pesta\xF1as_67": -8319455662736445743
+      "pesta\xF1as_68": -8210353224001276560
+      "pesta\xF1as_69": -2059228417662910171
+      "pesta\xF1as_7": 3722640651691747028
+      "pesta\xF1as_70": 6992234191070096511
+      "pesta\xF1as_71": 4190444266303737278
+      "pesta\xF1as_72": 7999700346755010492
+      "pesta\xF1as_73": -7218469363346031967
+      "pesta\xF1as_74": 775867273256654836
+      "pesta\xF1as_75": 4978806110955289139
+      "pesta\xF1as_76": -6360224485927227922
+      "pesta\xF1as_77": -651545848412972665
+      "pesta\xF1as_78": -3036148490882376797
+      "pesta\xF1as_79": 7311910727370067119
+      "pesta\xF1as_8": 7393166293033854423
+      "pesta\xF1as_80": -8621079727396430549
+      "pesta\xF1as_81": 3747065365189861740
+      "pesta\xF1as_82": 5139741909484692978
+      "pesta\xF1as_83": -6666889400241568913
+      "pesta\xF1as_84": -5957902325777432356
+      "pesta\xF1as_85": -4617997549025294158
+      "pesta\xF1as_86": 3468367286835029009
+      "pesta\xF1as_87": -219207563899471203
+      "pesta\xF1as_88": 5925244661914652011
+      "pesta\xF1as_89": -5670519207550869247
+      "pesta\xF1as_9": -8285502984900472089
+      "pesta\xF1as_90": -1000945999697701723
+      "pesta\xF1as_91": 5753212342042823409
+      "pesta\xF1as_92": -6746018718634901179
+      "pesta\xF1as_93": 5817758157320941544
+      "pesta\xF1as_94": 874857108633162621
+      "pesta\xF1as_95": -50469725686132663
+      "pesta\xF1as_96": -4096200427955758112
+      "pesta\xF1as_97": -5310507384799117117
+      "pesta\xF1as_98": 4398794519113336306
+      "pesta\xF1as_99": 4372964280109360425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: d00c935ee3b29e04e81e570caf8b0535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7901316602297078717
+    second: tarta_0
+  - first:
+      213: 5156893080604596480
+    second: tarta_1
+  - first:
+      213: -5748133036426684003
+    second: tarta_2
+  - first:
+      213: -4005420873456868128
+    second: tarta_3
+  - first:
+      213: 992039876181379530
+    second: tarta_4
+  - first:
+      213: -8147681090011485127
+    second: tarta_5
+  - first:
+      213: 4132925281183527843
+    second: tarta_6
+  - first:
+      213: 5534249643226801275
+    second: tarta_7
+  - first:
+      213: 7120823193116921013
+    second: tarta_8
+  - first:
+      213: -336175842169858726
+    second: tarta_9
+  - first:
+      213: 5151723762520669818
+    second: tarta_10
+  - first:
+      213: 5186148065147417758
+    second: tarta_11
+  - first:
+      213: 3884779332475652123
+    second: tarta_12
+  - first:
+      213: 7871482952874290936
+    second: tarta_13
+  - first:
+      213: -7913176092972162946
+    second: tarta_14
+  - first:
+      213: 4159400919448289326
+    second: tarta_15
+  - first:
+      213: 7790053448480882953
+    second: tarta_16
+  - first:
+      213: 1251954748902783833
+    second: tarta_17
+  - first:
+      213: 9068000808430332218
+    second: tarta_18
+  - first:
+      213: -1963004817858888499
+    second: tarta_19
+  - first:
+      213: -2506980592072840680
+    second: tarta_20
+  - first:
+      213: -3527105079361593129
+    second: tarta_21
+  - first:
+      213: -5973782681392628401
+    second: tarta_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tarta_0
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3703
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db350d9369d17ad60800000000000000
+      internalID: 7901316602297078717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_1
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3558
+        width: 22
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095b163fe6f09740800000000000000
+      internalID: 5156893080604596480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3642
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99991255778a30b0800000000000000
+      internalID: -5748133036426684003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_3
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 3485
+        width: 102
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42badefe2e968c0800000000000000
+      internalID: -4005420873456868128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3030
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac940d6e20f64cd00800000000000000
+      internalID: 992039876181379530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2886
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ca2b6873f9dee80800000000000000
+      internalID: -8147681090011485127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2837
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3fc2465a91b5930800000000000000
+      internalID: 4132925281183527843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2464
+        width: 71
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74add29aba9dcc40800000000000000
+      internalID: 5534249643226801275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1199
+        width: 2170
+        height: 1591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcc81667fe32d260800000000000000
+      internalID: 7120823193116921013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2439
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55d5694ad9a55bf0800000000000000
+      internalID: -336175842169858726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2400
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ebbfd87799e7740800000000000000
+      internalID: 5151723762520669818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2407
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f0b71036e8f740800000000000000
+      internalID: 5186148065147417758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b188dfe683289e530800000000000000
+      internalID: 3884779332475652123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_13
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1525
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6d9d6a002d3d60800000000000000
+      internalID: 7871482952874290936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_14
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1453
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e74de440ce2290800000000000000
+      internalID: -7913176092972162946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_15
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1047
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20062a491929b930800000000000000
+      internalID: 4159400919448289326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1036
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90182028654db1c60800000000000000
+      internalID: 7790053448480882953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_17
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 532
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb6330636df5110800000000000000
+      internalID: 1251954748902783833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_18
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 540
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e171e0b208dd70800000000000000
+      internalID: 9068000808430332218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_19
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 499
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf323c48102c4e0800000000000000
+      internalID: -1963004817858888499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_20
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 516
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a23be1f6a653dd0800000000000000
+      internalID: -2506980592072840680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_21
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 501
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02d232e943d0fc0800000000000000
+      internalID: -3527105079361593129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarta_22
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 145
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d363e3d4cd81da0800000000000000
+      internalID: -5973782681392628401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tarta_0: 7901316602297078717
+      tarta_1: 5156893080604596480
+      tarta_10: 5151723762520669818
+      tarta_11: 5186148065147417758
+      tarta_12: 3884779332475652123
+      tarta_13: 7871482952874290936
+      tarta_14: -7913176092972162946
+      tarta_15: 4159400919448289326
+      tarta_16: 7790053448480882953
+      tarta_17: 1251954748902783833
+      tarta_18: 9068000808430332218
+      tarta_19: -1963004817858888499
+      tarta_2: -5748133036426684003
+      tarta_20: -2506980592072840680
+      tarta_21: -3527105079361593129
+      tarta_22: -5973782681392628401
+      tarta_3: -4005420873456868128
+      tarta_4: 992039876181379530
+      tarta_5: -8147681090011485127
+      tarta_6: 4132925281183527843
+      tarta_7: 5534249643226801275
+      tarta_8: 7120823193116921013
+      tarta_9: -336175842169858726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

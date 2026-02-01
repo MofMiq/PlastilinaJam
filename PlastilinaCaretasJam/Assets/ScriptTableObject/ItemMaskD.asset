@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ItemMaskD
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: D
-  icon: {fileID: 4081543301678191023, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
+  icon: {fileID: 21300000, guid: 007e54cb3d439ef4e805179590814139, type: 3}
   npcSprite: {fileID: -2654471525759449198, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
   oruga: 2
   cuneiforme: 3

@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 3c527330c63814e4c8cfe510e3b98acf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1932398903241589696
+    second: rimel_0
+  - first:
+      213: 3189650903758725612
+    second: rimel_1
+  - first:
+      213: 5249320129644958257
+    second: rimel_2
+  - first:
+      213: -2601801019182139885
+    second: rimel_3
+  - first:
+      213: -5526723289605484209
+    second: rimel_4
+  - first:
+      213: -5053997430973009712
+    second: rimel_5
+  - first:
+      213: 8512143034513974599
+    second: rimel_6
+  - first:
+      213: -3483326259782710407
+    second: rimel_7
+  - first:
+      213: -303375603092984815
+    second: rimel_8
+  - first:
+      213: 8297780259849445665
+    second: rimel_9
+  - first:
+      213: -231618250830924536
+    second: rimel_10
+  - first:
+      213: -7374851188332421247
+    second: rimel_11
+  - first:
+      213: -5317814788435096782
+    second: rimel_12
+  - first:
+      213: 2175955900970794073
+    second: rimel_13
+  - first:
+      213: -668445484428824660
+    second: rimel_14
+  - first:
+      213: 9187392753359664760
+    second: rimel_15
+  - first:
+      213: 7130885163465186549
+    second: rimel_16
+  - first:
+      213: -5969762071827489108
+    second: rimel_17
+  - first:
+      213: -563579285866740969
+    second: rimel_18
+  - first:
+      213: 1134422820377101626
+    second: rimel_19
+  - first:
+      213: 8539438761880874749
+    second: rimel_20
+  - first:
+      213: -6816295902175509206
+    second: rimel_21
+  - first:
+      213: 944011344762675363
+    second: rimel_22
+  - first:
+      213: -4602752029221847794
+    second: rimel_23
+  - first:
+      213: -7377841375361942835
+    second: rimel_24
+  - first:
+      213: -8304275980658161160
+    second: rimel_25
+  - first:
+      213: -701274812202141318
+    second: rimel_26
+  - first:
+      213: -3796614735787315563
+    second: rimel_27
+  - first:
+      213: -6650921021723478423
+    second: rimel_28
+  - first:
+      213: -7364411372376530170
+    second: rimel_29
+  - first:
+      213: -3783212827296861799
+    second: rimel_30
+  - first:
+      213: -4915905258981606362
+    second: rimel_31
+  - first:
+      213: 4036054683230753355
+    second: rimel_32
+  - first:
+      213: 2883163738986115512
+    second: rimel_33
+  - first:
+      213: -8621704440148056458
+    second: rimel_34
+  - first:
+      213: -31936217579402885
+    second: rimel_35
+  - first:
+      213: 8731612770333060974
+    second: rimel_36
+  - first:
+      213: 712935777053465714
+    second: rimel_37
+  - first:
+      213: 3402426106815786298
+    second: rimel_38
+  - first:
+      213: 5623760876103346287
+    second: rimel_39
+  - first:
+      213: -5766045305519705289
+    second: rimel_40
+  - first:
+      213: -541522491286696889
+    second: rimel_41
+  - first:
+      213: -9123995927884818716
+    second: rimel_42
+  - first:
+      213: -1899066101911585889
+    second: rimel_43
+  - first:
+      213: -3014661395617910117
+    second: rimel_44
+  - first:
+      213: -2028996832294689643
+    second: rimel_45
+  - first:
+      213: -9150246232492483711
+    second: rimel_46
+  - first:
+      213: -239489754490141504
+    second: rimel_47
+  - first:
+      213: 455608911524029464
+    second: rimel_48
+  - first:
+      213: -3754682693146188817
+    second: rimel_49
+  - first:
+      213: 3720028560098721936
+    second: rimel_50
+  - first:
+      213: -1152560638101333647
+    second: rimel_51
+  - first:
+      213: 2008303207879986109
+    second: rimel_52
+  - first:
+      213: -4795145053741371311
+    second: rimel_53
+  - first:
+      213: 1453165654338757542
+    second: rimel_54
+  - first:
+      213: 3673838353108124830
+    second: rimel_55
+  - first:
+      213: 8160807305968286088
+    second: rimel_56
+  - first:
+      213: -1776622098224627889
+    second: rimel_57
+  - first:
+      213: 112626803227594744
+    second: rimel_58
+  - first:
+      213: 3353144826936188039
+    second: rimel_59
+  - first:
+      213: -4788432029237571666
+    second: rimel_60
+  - first:
+      213: -3960746184344977262
+    second: rimel_61
+  - first:
+      213: 6988345773722718639
+    second: rimel_62
+  - first:
+      213: 8752107150538459903
+    second: rimel_63
+  - first:
+      213: -6007147260045938163
+    second: rimel_64
+  - first:
+      213: -6620192326974484993
+    second: rimel_65
+  - first:
+      213: -1233966958638335605
+    second: rimel_66
+  - first:
+      213: -8926881568862043310
+    second: rimel_67
+  - first:
+      213: 5325997727264068945
+    second: rimel_68
+  - first:
+      213: 777387198845233603
+    second: rimel_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rimel_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3478
+        width: 367
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c3eef8f6dbe25e0800000000000000
+      internalID: -1932398903241589696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3343
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1ea04f89ae34c20800000000000000
+      internalID: 3189650903758725612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3093
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1329bc788d459d840800000000000000
+      internalID: 5249320129644958257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316366b02cb84ebd0800000000000000
+      internalID: -2601801019182139885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3203
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41df2f23722d43b0800000000000000
+      internalID: -5526723289605484209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3296
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0fd1f1d189cd9b0800000000000000
+      internalID: -5053997430973009712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3194
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74565899df4312670800000000000000
+      internalID: 8512143034513974599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2018
+        width: 737
+        height: 1474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8cd0e83db8afc0800000000000000
+      internalID: -3483326259782710407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6f101f713acbf0800000000000000
+      internalID: -303375603092984815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_9
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 240
+        width: 1818
+        height: 3066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121239cce23a72370800000000000000
+      internalID: 8297780259849445665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805b9b39d6029ccf0800000000000000
+      internalID: -231618250830924536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_11
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3133
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1418fae347a990800000000000000
+      internalID: -7374851188332421247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_12
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3332
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bc10aff935336b0800000000000000
+      internalID: -5317814788435096782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_13
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3554
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c774cfc5c823e10800000000000000
+      internalID: 2175955900970794073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_14
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe7ec9f5439b6f0800000000000000
+      internalID: -668445484428824660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_15
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3111
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763004480d208f70800000000000000
+      internalID: 9187392753359664760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_16
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc127e664ef5f260800000000000000
+      internalID: 7130885163465186549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_17
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3103
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5f1b5605272da0800000000000000
+      internalID: -5969762071827489108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_18
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3582
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713052f10a3cd28f0800000000000000
+      internalID: -563579285866740969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_19
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3595
+        width: 446
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358ca17b874ebf00800000000000000
+      internalID: 1134422820377101626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_20
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 3015
+        width: 743
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe6c1f5f4e228670800000000000000
+      internalID: 8539438761880874749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2994
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c0e2cdf6a761a0800000000000000
+      internalID: -6816295902175509206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2966
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0a484015dc91d00800000000000000
+      internalID: 944011344762675363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2872
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df5057a6dbf10c0800000000000000
+      internalID: -4602752029221847794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2719
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3f5ccb54ac9990800000000000000
+      internalID: -7377841375361942835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2722
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cf085ef841cc80800000000000000
+      internalID: -8304275980658161160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_26
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7933c816429446f0800000000000000
+      internalID: -701274812202141318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2633
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e226c5307bf4bc0800000000000000
+      internalID: -3796614735787315563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2439
+        width: 202
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667efe919e23b3a0800000000000000
+      internalID: -6650921021723478423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_29
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60366a900ea5cc990800000000000000
+      internalID: -7364411372376530170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_30
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2473
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f4475af35f7bc0800000000000000
+      internalID: -3783212827296861799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_31
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2500
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3de8663237cbb0800000000000000
+      internalID: -4915905258981606362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_32
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2422
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425508b952f20830800000000000000
+      internalID: 4036054683230753355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_33
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2411
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fd8b152e030820800000000000000
+      internalID: 2883163738986115512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_34
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2387
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676219ecd7d895880800000000000000
+      internalID: -8621704440148056458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c5b7ed2a8e8ff0800000000000000
+      internalID: -31936217579402885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2296
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f67f37d8bec2970800000000000000
+      internalID: 8731612770333060974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2314
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c50fadf4bd4e900800000000000000
+      internalID: 712935777053465714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_38
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d254f6488d73f20800000000000000
+      internalID: 3402426106815786298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_39
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2215
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6821e988bc9b0e40800000000000000
+      internalID: 5623760876103346287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2195
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73370bd2854eaffa0800000000000000
+      internalID: -5766045305519705289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_41
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc8fcc9202c78f0800000000000000
+      internalID: -541522491286696889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1995
+        width: 67
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6905a6b0e016180800000000000000
+      internalID: -9123995927884818716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2041
+        width: 123
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf296217925a5e0800000000000000
+      internalID: -1899066101911585889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1927
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b927c1cde65c926d0800000000000000
+      internalID: -3014661395617910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_45
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1999
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594aea0912e87d3e0800000000000000
+      internalID: -2028996832294689643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_46
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1977
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bdde8188bc30180800000000000000
+      internalID: -9150246232492483711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1431
+        width: 149
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4054056592dacf0800000000000000
+      internalID: -239489754490141504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1479
+        width: 619
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81464ef14e5a25600800000000000000
+      internalID: 455608911524029464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e6b6dbffa4ebc0800000000000000
+      internalID: -3754682693146188817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_50
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1567
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900efe044230a330800000000000000
+      internalID: 3720028560098721936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_51
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1327
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795fd7c4384100f0800000000000000
+      internalID: -1152560638101333647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_52
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbc6fa802deedb10800000000000000
+      internalID: 2008303207879986109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_53
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1319
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1503649baf8347db0800000000000000
+      internalID: -4795145053741371311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 468
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3e8a2a67eaa2410800000000000000
+      internalID: 1453165654338757542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1119
+        width: 119
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94473f64881cf230800000000000000
+      internalID: 3673838353108124830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1081
+        width: 109
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f6a8c103014170800000000000000
+      internalID: 8160807305968286088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1018
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f36375d9b2857e0800000000000000
+      internalID: -1776622098224627889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 625
+        width: 157
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff81961b71209100800000000000000
+      internalID: 112626803227594744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 800
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c58f15473c88e20800000000000000
+      internalID: 3353144826936188039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_60
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 705
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf013a80721c8db0800000000000000
+      internalID: -4788432029237571666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_61
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 622
+        width: 237
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29042ac845a9809c0800000000000000
+      internalID: -3960746184344977262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_62
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 633
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1585294779bf060800000000000000
+      internalID: 6988345773722718639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 482
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa4000351bb57970800000000000000
+      internalID: 8752107150538459903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 120
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02308be46352aca0800000000000000
+      internalID: -6007147260045938163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 146
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4be5672a5024a0800000000000000
+      internalID: -6620192326974484993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 109
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89fac5c69110eee0800000000000000
+      internalID: -1233966958638335605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530fff72885d1480800000000000000
+      internalID: -8926881568862043310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 72
+        width: 374
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dc10f6beb9e940800000000000000
+      internalID: 5325997727264068945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimel_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c92b10e985d9ca00800000000000000
+      internalID: 777387198845233603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rimel_0: -1932398903241589696
+      rimel_1: 3189650903758725612
+      rimel_10: -231618250830924536
+      rimel_11: -7374851188332421247
+      rimel_12: -5317814788435096782
+      rimel_13: 2175955900970794073
+      rimel_14: -668445484428824660
+      rimel_15: 9187392753359664760
+      rimel_16: 7130885163465186549
+      rimel_17: -5969762071827489108
+      rimel_18: -563579285866740969
+      rimel_19: 1134422820377101626
+      rimel_2: 5249320129644958257
+      rimel_20: 8539438761880874749
+      rimel_21: -6816295902175509206
+      rimel_22: 944011344762675363
+      rimel_23: -4602752029221847794
+      rimel_24: -7377841375361942835
+      rimel_25: -8304275980658161160
+      rimel_26: -701274812202141318
+      rimel_27: -3796614735787315563
+      rimel_28: -6650921021723478423
+      rimel_29: -7364411372376530170
+      rimel_3: -2601801019182139885
+      rimel_30: -3783212827296861799
+      rimel_31: -4915905258981606362
+      rimel_32: 4036054683230753355
+      rimel_33: 2883163738986115512
+      rimel_34: -8621704440148056458
+      rimel_35: -31936217579402885
+      rimel_36: 8731612770333060974
+      rimel_37: 712935777053465714
+      rimel_38: 3402426106815786298
+      rimel_39: 5623760876103346287
+      rimel_4: -5526723289605484209
+      rimel_40: -5766045305519705289
+      rimel_41: -541522491286696889
+      rimel_42: -9123995927884818716
+      rimel_43: -1899066101911585889
+      rimel_44: -3014661395617910117
+      rimel_45: -2028996832294689643
+      rimel_46: -9150246232492483711
+      rimel_47: -239489754490141504
+      rimel_48: 455608911524029464
+      rimel_49: -3754682693146188817
+      rimel_5: -5053997430973009712
+      rimel_50: 3720028560098721936
+      rimel_51: -1152560638101333647
+      rimel_52: 2008303207879986109
+      rimel_53: -4795145053741371311
+      rimel_54: 1453165654338757542
+      rimel_55: 3673838353108124830
+      rimel_56: 8160807305968286088
+      rimel_57: -1776622098224627889
+      rimel_58: 112626803227594744
+      rimel_59: 3353144826936188039
+      rimel_6: 8512143034513974599
+      rimel_60: -4788432029237571666
+      rimel_61: -3960746184344977262
+      rimel_62: 6988345773722718639
+      rimel_63: 8752107150538459903
+      rimel_64: -6007147260045938163
+      rimel_65: -6620192326974484993
+      rimel_66: -1233966958638335605
+      rimel_67: -8926881568862043310
+      rimel_68: 5325997727264068945
+      rimel_69: 777387198845233603
+      rimel_7: -3483326259782710407
+      rimel_8: -303375603092984815
+      rimel_9: 8297780259849445665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

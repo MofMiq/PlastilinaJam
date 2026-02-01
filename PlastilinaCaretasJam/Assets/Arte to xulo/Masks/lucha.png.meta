@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: d14a4eb3663018e44b6e726b1fb7faf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6185147630350174045
+    second: lucha_0
+  - first:
+      213: 6003482950393767399
+    second: lucha_1
+  - first:
+      213: -7115724926562930752
+    second: lucha_2
+  - first:
+      213: -9188405259183048669
+    second: lucha_3
+  - first:
+      213: 1304447540719476054
+    second: lucha_4
+  - first:
+      213: 6320218180167705930
+    second: lucha_5
+  - first:
+      213: -8356227389808639504
+    second: lucha_6
+  - first:
+      213: -718036843540575471
+    second: lucha_7
+  - first:
+      213: -5177267505424382807
+    second: lucha_8
+  - first:
+      213: -5819933194248949855
+    second: lucha_9
+  - first:
+      213: -7392274681553436281
+    second: lucha_10
+  - first:
+      213: -5155195391816015026
+    second: lucha_11
+  - first:
+      213: -7033842124405795344
+    second: lucha_12
+  - first:
+      213: 3391584710718482396
+    second: lucha_13
+  - first:
+      213: -3164680440857150835
+    second: lucha_14
+  - first:
+      213: 3462026478267115727
+    second: lucha_15
+  - first:
+      213: 6434406134485050215
+    second: lucha_16
+  - first:
+      213: -5214091941318610682
+    second: lucha_17
+  - first:
+      213: 1348256139517464358
+    second: lucha_18
+  - first:
+      213: -3347481186485860981
+    second: lucha_19
+  - first:
+      213: 8716487901135604522
+    second: lucha_20
+  - first:
+      213: 6625328619507395013
+    second: lucha_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lucha_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 222
+        width: 2423
+        height: 3170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570f5edffe06d550800000000000000
+      internalID: 6185147630350174045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_1
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2983
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a5518fe7a05350800000000000000
+      internalID: 6003482950393767399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_2
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2926
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfe2d841eddf3d90800000000000000
+      internalID: -7115724926562930752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_3
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2925
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328301a591a3c7080800000000000000
+      internalID: -9188405259183048669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_4
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d57b480245a1210800000000000000
+      internalID: 1304447540719476054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_5
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2916
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45acdbe2fce5b750800000000000000
+      internalID: 6320218180167705930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1500
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f101105677b80c80800000000000000
+      internalID: -8356227389808639504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2317
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0f1d8b450906f0800000000000000
+      internalID: -718036843540575471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_8
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1579
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c10852a6a628b0800000000000000
+      internalID: -5177267505424382807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_9
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1599
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af694c58917b3fa0800000000000000
+      internalID: -5819933194248949855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1642
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781c4e3d75d596990800000000000000
+      internalID: -7392274681553436281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1628
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e436313ca111578b0800000000000000
+      internalID: -5155195391816015026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1634
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51d90dad5c26e90800000000000000
+      internalID: -7033842124405795344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_13
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1568
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd765043354511f20800000000000000
+      internalID: 3391584710718482396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a351ff7ebc414d0800000000000000
+      internalID: -3164680440857150835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_15
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8ab184db69b0030800000000000000
+      internalID: 3462026478267115727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_16
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1596
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7636392d94a9b4950800000000000000
+      internalID: 6434406134485050215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_17
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1584
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013a7b3103d3a7b0800000000000000
+      internalID: -5214091941318610682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_18
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1648
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8d26c0d7f5b210800000000000000
+      internalID: 1348256139517464358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_19
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2042
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85053bb89b5b81d0800000000000000
+      internalID: -3347481186485860981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_20
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2160
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b8d2c609f27f870800000000000000
+      internalID: 8716487901135604522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucha_21
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1345
+        width: 404
+        height: 1409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a7f5e645e1fb50800000000000000
+      internalID: 6625328619507395013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lucha_0: 6185147630350174045
+      lucha_1: 6003482950393767399
+      lucha_10: -7392274681553436281
+      lucha_11: -5155195391816015026
+      lucha_12: -7033842124405795344
+      lucha_13: 3391584710718482396
+      lucha_14: -3164680440857150835
+      lucha_15: 3462026478267115727
+      lucha_16: 6434406134485050215
+      lucha_17: -5214091941318610682
+      lucha_18: 1348256139517464358
+      lucha_19: -3347481186485860981
+      lucha_2: -7115724926562930752
+      lucha_20: 8716487901135604522
+      lucha_21: 6625328619507395013
+      lucha_3: -9188405259183048669
+      lucha_4: 1304447540719476054
+      lucha_5: 6320218180167705930
+      lucha_6: -8356227389808639504
+      lucha_7: -718036843540575471
+      lucha_8: -5177267505424382807
+      lucha_9: -5819933194248949855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
