@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f461de97c9e28d8419d8ba3c43630e89, type: 3}
-  m_Name: RewardMask
+  m_Name: InvisibleMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: RewardMask
-  icon: {fileID: -878775300250748510, guid: a4c85adf8f7a14d46965a5ed3d890110, type: 3}
-  npcSprite: {fileID: 2027274068783436032, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
-  kindness: 1
-  rarity: 2
-  darkness: 3
+  icon: {fileID: 0}
+  npcSprite: {fileID: 0}
+  oruga: 0
+  cuneiforme: 0
+  pescao: 0
