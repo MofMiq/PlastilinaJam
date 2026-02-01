@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using System.Collections.Generic;
 
 public class FinalSceneManager : MonoBehaviour
 {
@@ -34,6 +35,11 @@ public class FinalSceneManager : MonoBehaviour
     {
         LoadFinalBasedOnScore();
         StartCoroutine(EnableAnimatorAfterDelay());
+
+        if (GameManager.Instance != null)
+        {
+            Destroy(GameManager.Instance.gameObject);
+        }
     }
 
     void LoadFinalBasedOnScore()
