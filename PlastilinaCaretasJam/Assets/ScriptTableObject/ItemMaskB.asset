@@ -20,9 +20,11 @@ MonoBehaviour:
   oruga: 3
   cuneiforme: 1
   pescao: 2
-  responseOruga: "Ojo eh. Esto est\xE1 guapo, bro. Yo creo que la gente lo va a flipar
-    en la feria. Muchas gracias, toma esto."
-  responseCuneiforme: Esto dista mucho de lo que necesito, sin embargo, mis modales
-    me hacen no poder rechazarlo. El protocolo me obliga a darte algo a cambio. Toma.
+  responseOruga: "Ojo eh. <color=#FF69B4>Esto est\xE1 guapo</color>, bro. Yo creo
+    que la gente lo va a flipar en la feria. Muchas gracias, toma esto."
+  responseCuneiforme: Esto <color=#FF69B4>dista mucho de lo que necesito</color>,
+    sin embargo, mis modales me hacen no poder rechazarlo. El protocolo me obliga
+    a darte algo a cambio. Toma.
   responsePescao: "Bueno, esto se parece a algunas m\xE1scaras que he visto en las
-    fiestas, pero no s\xE9 si lo encontrar\xE1n sexy. No est\xE1 mal\u2026"
+    fiestas, pero<color=#FF69B4> no s\xE9 si lo encontrar\xE1n sexy.</color> No est\xE1
+    mal\u2026"

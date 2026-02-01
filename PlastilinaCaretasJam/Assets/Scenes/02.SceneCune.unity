@@ -1119,12 +1119,14 @@ MonoBehaviour:
   dialogUI: {fileID: 13229840}
   initialDialogLines:
   - Diantres, con tremenda resaca me hallo.
-  - "Pero no hay arrepentimiento en m\xED. Disfruto mucho de las m\xFAsicas y danzas,
-    y del elixir al que com\xFAnmente llam\xE1is cerveza."
+  - "Pero no hay arrepentimiento en m\xED. Disfruto mucho de las <color=#FF69B4>m\xFAsicas
+    y danzas</color>, y del elixir al que com\xFAnmente llam\xE1is cerveza."
   - Sin embargo, he observado que la gente ve mi aspecto como algo intimidatorio,
     amenazante incluso.
-  - "Eso me est\xE1 privando de conocer a personas con las que compartir la cumbia."
-  - "Necesito parecer m\xE1s accesible y divertido, ay\xFAdame j\xF3ven."
+  - "Eso me est\xE1 privando de conocer a personas con las que <color=#FF69B4>compartir
+    la cumbia.</color>"
+  - "Necesito parecer<color=#FF69B4> m\xE1s accesible y divertido</color>, ay\xFAdame
+    j\xF3ven."
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:

@@ -1203,8 +1203,8 @@ MonoBehaviour:
   dialogUI: {fileID: 13229840}
   initialDialogLines:
   - "\xBFQu\xE9 pasa <color=#FF69B4>bro</color>?"
-  - Buah tremenda partida acabo de echar, a ver si subo a Diamante III de una vez,
-    bro.
+  - "Aqu\xED estoy echandome unas rankeds al solecito, que me ha dicho el m\xE9dico
+    que necesito vitamina D."
   - "Estaba pensando en que se acerca la pr\xF3xima <color=#FF69B4>feria del videojuego</color>
     y quiero llevar algo to guapo, \xBFjabeh?"
   - Pero no un cosplay, que pa eso no se yo si valgo.

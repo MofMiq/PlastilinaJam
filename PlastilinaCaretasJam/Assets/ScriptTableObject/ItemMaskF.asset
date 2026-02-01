@@ -22,5 +22,5 @@ MonoBehaviour:
   pescao: 3
   responseOruga: 
   responseCuneiforme: 
-  responsePescao: "Me gusta, me gusta. Definitivamente, esto puede funcionar, a buen
-    seguro atraer\xE9 miradas y deseo. Gracias."
+  responsePescao: "Me gusta, me gusta. Definitivamente,<color=#FF69B4> esto puede
+    funcionar</color>, a buen seguro atraer\xE9 miradas y deseo. Gracias."

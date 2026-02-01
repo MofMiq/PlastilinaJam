@@ -21,8 +21,8 @@ MonoBehaviour:
   cuneiforme: 4
   pescao: 1
   responseOruga: 
-  responseCuneiforme: "Estamos ante el mejor escenario posible, joven. Causar\xE9
-    regocijo y algarab\xEDa all\xE1 donde vaya. Expresar\xE9 mi gratitud con este
-    obsequio, toma."
+  responseCuneiforme: "Estamos ante <color=#FF69B4>el mejor escenario posible</color>,
+    joven. Causar\xE9 regocijo y algarab\xEDa all\xE1 donde vaya. Expresar\xE9 mi
+    gratitud con este obsequio, toma."
   responsePescao: "Me cuesta imaginar que alguien vea esto como algo sensual\u2026
     Si esto es lo mejor que tienes, me lo quedar\xE9\u2026"

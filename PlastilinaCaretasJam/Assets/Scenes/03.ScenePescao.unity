@@ -990,12 +990,12 @@ MonoBehaviour:
   dialogUI: {fileID: 13229840}
   initialDialogLines:
   - "Hola, eres el que reparte m\xE1scaras, \xBFverdad?"
-  - "Desde que en esta casa empezaron a hacer fiestas de parejas swingers, estoy
-    teniendo unas inquietudes que nunca hab\xEDa sentido."
+  - "Desde que en esta casa empezaron a hacer <color=#FF69B4>fiestas de parejas swingers</color>,
+    estoy teniendo unas inquietudes que nunca hab\xEDa sentido."
   - Creo que va siendo hora de salir del estanque. Hay fuego en mi interior, y tengo
-    mucho amor que repartir.
-  - "Quiero sentir las miradas de deseo de los dem\xE1s. Seguro que tienes algo para
-    m\xED."
+    mucho <color=#FF69B4>amor que repartir.</color>
+  - "Quiero sentir las <color=#FF69B4>miradas de deseo</color> de los dem\xE1s. Seguro
+    que tienes algo para m\xED."
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:

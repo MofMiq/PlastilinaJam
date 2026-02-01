@@ -20,9 +20,10 @@ MonoBehaviour:
   oruga: 2
   cuneiforme: 3
   pescao: 1
-  responseOruga: "Vale, igual sirve de algo. No s\xE9 si vacilar\xE9 mucho, pero
-    agradezco la intenci\xF3n, bro. Toma esta tarta."
-  responseCuneiforme: "Una buena elecci\xF3n, no cabe duda. Esto refleja una imagen
-    accesible, la gente ya no me ver\xE1 amenazante. Gracias, toma esto por las molestias."
+  responseOruga: "Vale, <color=#FF69B4>igual sirve de algo</color>. No s\xE9 si vacilar\xE9
+    mucho, pero agradezco la intenci\xF3n, bro. Toma esta tarta."
+  responseCuneiforme: "<color=#FF69B4>Una buena elecci\xF3n</color>, no cabe duda.
+    Esto refleja una imagen accesible, la gente ya no me ver\xE1 amenazante. Gracias,
+    toma esto por las molestias."
   responsePescao: "Me cuesta imaginar que alguien vea esto como algo sensual\u2026
     Si esto es lo mejor que tienes, me lo quedar\xE9\u2026 "
