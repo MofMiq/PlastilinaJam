@@ -13,13 +13,16 @@ MonoBehaviour:
   m_Name: ItemMaskD
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: D
-  icon: {fileID: 21300000, guid: 007e54cb3d439ef4e805179590814139, type: 3}
+  icon: {fileID: 21300000, guid: ef365f9b589afc64fb2d590018e59dc0, type: 3}
   orugaAnimator: {fileID: 9100000, guid: 1b2563e6af6415c4fb52765b3ce69264, type: 2}
-  cuneiformeAnimator: {fileID: 0}
+  cuneiformeAnimator: {fileID: 9100000, guid: bcc03a68926076b45bd32945392d4a33, type: 2}
   pescaoAnimator: {fileID: 9100000, guid: db58b4f6ec48def4da0b6466e5423151, type: 2}
   oruga: 2
   cuneiforme: 3
   pescao: 1
-  responseOruga: 
-  responseCuneiforme: 
-  responsePescao: 
+  responseOruga: "Vale, igual sirve de algo. No s\xE9 si vacilar\xE9 mucho, pero
+    agradezco la intenci\xF3n, bro. Toma esta tarta."
+  responseCuneiforme: "Una buena elecci\xF3n, no cabe duda. Esto refleja una imagen
+    accesible, la gente ya no me ver\xE1 amenazante. Gracias, toma esto por las molestias."
+  responsePescao: "Me cuesta imaginar que alguien vea esto como algo sensual\u2026
+    Si esto es lo mejor que tienes, me lo quedar\xE9\u2026 "

@@ -1,217 +1,178 @@
 fileFormatVersion: 2
-guid: 3c527330c63814e4c8cfe510e3b98acf
+guid: 1cf579e4826500648b1b24200df72f30
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1932398903241589696
-    second: rimel_0
+      213: 5643488336060575704
+    second: mascara_0
   - first:
-      213: 3189650903758725612
-    second: rimel_1
+      213: 1735740331836043004
+    second: mascara_1
   - first:
-      213: 5249320129644958257
-    second: rimel_2
+      213: -2867913077356953577
+    second: mascara_2
   - first:
-      213: -2601801019182139885
-    second: rimel_3
+      213: -6327352970971486067
+    second: mascara_3
   - first:
-      213: -5526723289605484209
-    second: rimel_4
+      213: 3752660582846936277
+    second: mascara_4
   - first:
-      213: -5053997430973009712
-    second: rimel_5
+      213: 8548080677246186373
+    second: mascara_5
   - first:
-      213: 8512143034513974599
-    second: rimel_6
+      213: 9111814415856935997
+    second: mascara_6
   - first:
-      213: -3483326259782710407
-    second: rimel_7
+      213: 8524994870508179583
+    second: mascara_7
   - first:
-      213: -303375603092984815
-    second: rimel_8
+      213: -7222485314127973821
+    second: mascara_8
   - first:
-      213: 8297780259849445665
-    second: rimel_9
+      213: 6500316752828933791
+    second: mascara_9
   - first:
-      213: -231618250830924536
-    second: rimel_10
+      213: -1653257806720057271
+    second: mascara_10
   - first:
-      213: -7374851188332421247
-    second: rimel_11
+      213: 7536300758765345202
+    second: mascara_11
   - first:
-      213: -5317814788435096782
-    second: rimel_12
+      213: 6621789395517057402
+    second: mascara_12
   - first:
-      213: 2175955900970794073
-    second: rimel_13
+      213: 3862612598336179187
+    second: mascara_13
   - first:
-      213: -668445484428824660
-    second: rimel_14
+      213: 687817989652741520
+    second: mascara_14
   - first:
-      213: 9187392753359664760
-    second: rimel_15
+      213: -7247124437037558417
+    second: mascara_15
   - first:
-      213: 7130885163465186549
-    second: rimel_16
+      213: -3736274718644320916
+    second: mascara_16
   - first:
-      213: -5969762071827489108
-    second: rimel_17
+      213: 6963139112882299316
+    second: mascara_17
   - first:
-      213: -563579285866740969
-    second: rimel_18
+      213: -8644781333105836342
+    second: mascara_18
   - first:
-      213: 1134422820377101626
-    second: rimel_19
+      213: 3953664746529379629
+    second: mascara_19
   - first:
-      213: 8539438761880874749
-    second: rimel_20
+      213: 2813153068045217895
+    second: mascara_20
   - first:
-      213: -6816295902175509206
-    second: rimel_21
+      213: 8189860775137906487
+    second: mascara_21
   - first:
-      213: 944011344762675363
-    second: rimel_22
+      213: -2829954731123158227
+    second: mascara_22
   - first:
-      213: -4602752029221847794
-    second: rimel_23
+      213: -4525672893879362245
+    second: mascara_23
   - first:
-      213: -7377841375361942835
-    second: rimel_24
+      213: 8713625737678163455
+    second: mascara_24
   - first:
-      213: -8304275980658161160
-    second: rimel_25
+      213: -4661591018090027487
+    second: mascara_25
   - first:
-      213: -701274812202141318
-    second: rimel_26
+      213: -6645568912437210798
+    second: mascara_26
   - first:
-      213: -3796614735787315563
-    second: rimel_27
+      213: 6093077334261123588
+    second: mascara_27
   - first:
-      213: -6650921021723478423
-    second: rimel_28
+      213: 2525107404539755328
+    second: mascara_28
   - first:
-      213: -7364411372376530170
-    second: rimel_29
+      213: -2701344062850980154
+    second: mascara_29
   - first:
-      213: -3783212827296861799
-    second: rimel_30
+      213: 7374031541664675317
+    second: mascara_30
   - first:
-      213: -4915905258981606362
-    second: rimel_31
+      213: -4824175321749570379
+    second: mascara_31
   - first:
-      213: 4036054683230753355
-    second: rimel_32
+      213: 7340086975285134134
+    second: mascara_32
   - first:
-      213: 2883163738986115512
-    second: rimel_33
+      213: -5036979100879058299
+    second: mascara_33
   - first:
-      213: -8621704440148056458
-    second: rimel_34
+      213: 81892317451297341
+    second: mascara_34
   - first:
-      213: -31936217579402885
-    second: rimel_35
+      213: -4215806167266465611
+    second: mascara_35
   - first:
-      213: 8731612770333060974
-    second: rimel_36
+      213: -2633465956755061896
+    second: mascara_36
   - first:
-      213: 712935777053465714
-    second: rimel_37
+      213: 201076515987598237
+    second: mascara_37
   - first:
-      213: 3402426106815786298
-    second: rimel_38
+      213: -8501128408359164613
+    second: mascara_38
   - first:
-      213: 5623760876103346287
-    second: rimel_39
+      213: 4224492137160434555
+    second: mascara_39
   - first:
-      213: -5766045305519705289
-    second: rimel_40
+      213: 4888542586031071051
+    second: mascara_40
   - first:
-      213: -541522491286696889
-    second: rimel_41
+      213: -5669579895827680786
+    second: mascara_41
   - first:
-      213: -9123995927884818716
-    second: rimel_42
+      213: -1234967048456833305
+    second: mascara_42
   - first:
-      213: -1899066101911585889
-    second: rimel_43
+      213: -4827881898262566487
+    second: mascara_43
   - first:
-      213: -3014661395617910117
-    second: rimel_44
+      213: -7410642068631637335
+    second: mascara_44
   - first:
-      213: -2028996832294689643
-    second: rimel_45
+      213: -786782284348602400
+    second: mascara_45
   - first:
-      213: -9150246232492483711
-    second: rimel_46
+      213: -1376109005304589886
+    second: mascara_46
   - first:
-      213: -239489754490141504
-    second: rimel_47
+      213: 3303364447353449476
+    second: mascara_47
   - first:
-      213: 455608911524029464
-    second: rimel_48
+      213: 2436878961788421850
+    second: mascara_48
   - first:
-      213: -3754682693146188817
-    second: rimel_49
+      213: -8420673801759438451
+    second: mascara_49
   - first:
-      213: 3720028560098721936
-    second: rimel_50
+      213: 8139919086256834989
+    second: mascara_50
   - first:
-      213: -1152560638101333647
-    second: rimel_51
+      213: 1800518601187161724
+    second: mascara_51
   - first:
-      213: 2008303207879986109
-    second: rimel_52
+      213: -3736009902439334209
+    second: mascara_52
   - first:
-      213: -4795145053741371311
-    second: rimel_53
+      213: -4712417807636846296
+    second: mascara_53
   - first:
-      213: 1453165654338757542
-    second: rimel_54
+      213: 1471868063851088996
+    second: mascara_54
   - first:
-      213: 3673838353108124830
-    second: rimel_55
+      213: -2324033130326805400
+    second: mascara_55
   - first:
-      213: 8160807305968286088
-    second: rimel_56
-  - first:
-      213: -1776622098224627889
-    second: rimel_57
-  - first:
-      213: 112626803227594744
-    second: rimel_58
-  - first:
-      213: 3353144826936188039
-    second: rimel_59
-  - first:
-      213: -4788432029237571666
-    second: rimel_60
-  - first:
-      213: -3960746184344977262
-    second: rimel_61
-  - first:
-      213: 6988345773722718639
-    second: rimel_62
-  - first:
-      213: 8752107150538459903
-    second: rimel_63
-  - first:
-      213: -6007147260045938163
-    second: rimel_64
-  - first:
-      213: -6620192326974484993
-    second: rimel_65
-  - first:
-      213: -1233966958638335605
-    second: rimel_66
-  - first:
-      213: -8926881568862043310
-    second: rimel_67
-  - first:
-      213: 5325997727264068945
-    second: rimel_68
-  - first:
-      213: 777387198845233603
-    second: rimel_69
+      213: 7774255107775497168
+    second: mascara_56
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -320,13 +281,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rimel_0
+      name: mascara_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 3478
-        width: 367
-        height: 543
+        x: 212
+        y: 487
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,42 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04c3eef8f6dbe25e0800000000000000
-      internalID: -1932398903241589696
+      spriteID: 8df63fcbdb2b15e40800000000000000
+      internalID: 5643488336060575704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_1
+      name: mascara_1
       rect:
         serializedVersion: 2
-        x: 54
-        y: 3343
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce1ea04f89ae34c20800000000000000
-      internalID: 3189650903758725612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_2
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 3093
+        x: 435
+        y: 491
         width: 12
-        height: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,18 +318,84 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1329bc788d459d840800000000000000
-      internalID: 5249320129644958257
+      spriteID: cfee76da2a6961810800000000000000
+      internalID: 1735740331836043004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_3
+      name: mascara_2
       rect:
         serializedVersion: 2
-        x: 254
-        y: 3129
+        x: 35
+        y: 473
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710017140402338d0800000000000000
+      internalID: -2867913077356953577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 464
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886bb42ff9b038a0800000000000000
+      internalID: -6327352970971486067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 471
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b33beae0241430800000000000000
+      internalID: 3752660582846936277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 460
         width: 6
         height: 6
       alignment: 0
@@ -401,63 +406,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 316366b02cb84ebd0800000000000000
-      internalID: -2601801019182139885
+      spriteID: 583b3a61612e0a670800000000000000
+      internalID: 8548080677246186373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_4
+      name: mascara_6
       rect:
         serializedVersion: 2
-        x: 318
-        y: 3203
+        x: 36
+        y: 458
         width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f41df2f23722d43b0800000000000000
-      internalID: -5526723289605484209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_5
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 3296
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d0fd1f1d189cd9b0800000000000000
-      internalID: -5053997430973009712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_6
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 3194
-        width: 9
         height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -467,20 +428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74565899df4312670800000000000000
-      internalID: 8512143034513974599
+      spriteID: d34af6c4feaa37e70800000000000000
+      internalID: 9111814415856935997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_7
+      name: mascara_7
       rect:
         serializedVersion: 2
-        x: 540
-        y: 2018
-        width: 737
-        height: 1474
+        x: 156
+        y: 253
+        width: 134
+        height: 213
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,18 +450,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 97b8cd0e83db8afc0800000000000000
-      internalID: -3483326259782710407
+      spriteID: f70daa8daadde4670800000000000000
+      internalID: 8524994870508179583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_8
+      name: mascara_8
       rect:
         serializedVersion: 2
-        x: 888
-        y: 3351
+        x: 213
+        y: 464
         width: 7
         height: 7
       alignment: 0
@@ -511,20 +472,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11c6f101f713acbf0800000000000000
-      internalID: -303375603092984815
+      spriteID: 3423de78fd394cb90800000000000000
+      internalID: -7222485314127973821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_9
+      name: mascara_9
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 240
-        width: 1818
-        height: 3066
+        x: 473
+        y: 443
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,18 +494,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 121239cce23a72370800000000000000
-      internalID: 8297780259849445665
+      spriteID: f96a3e385a3c53a50800000000000000
+      internalID: 6500316752828933791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_10
+      name: mascara_10
       rect:
         serializedVersion: 2
-        x: 1305
-        y: 3397
+        x: 36
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9404f4cb8c27e09e0800000000000000
+      internalID: -1653257806720057271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 422
         width: 7
         height: 7
       alignment: 0
@@ -555,41 +538,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 805b9b39d6029ccf0800000000000000
-      internalID: -231618250830924536
+      spriteID: 2b917be6c91569860800000000000000
+      internalID: 7536300758765345202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_11
+      name: mascara_12
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 3133
-        width: 64
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18f1418fae347a990800000000000000
-      internalID: -7374851188332421247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_12
-      rect:
-        serializedVersion: 2
-        x: 1374
-        y: 3332
-        width: 45
+        x: 102
+        y: 394
+        width: 10
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -599,84 +560,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23bc10aff935336b0800000000000000
-      internalID: -5317814788435096782
+      spriteID: a792e391f5255eb50800000000000000
+      internalID: 6621789395517057402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_13
+      name: mascara_13
       rect:
         serializedVersion: 2
-        x: 1397
-        y: 3554
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95c774cfc5c823e10800000000000000
-      internalID: 2175955900970794073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_14
-      rect:
-        serializedVersion: 2
-        x: 1402
-        y: 3421
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cafe7ec9f5439b6f0800000000000000
-      internalID: -668445484428824660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_15
-      rect:
-        serializedVersion: 2
-        x: 1407
-        y: 3111
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8763004480d208f70800000000000000
-      internalID: 9187392753359664760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_16
-      rect:
-        serializedVersion: 2
-        x: 1416
-        y: 3121
+        x: 131
+        y: 413
         width: 7
         height: 7
       alignment: 0
@@ -687,106 +582,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5fc127e664ef5f260800000000000000
-      internalID: 7130885163465186549
+      spriteID: 3fbc6c471b1ca9530800000000000000
+      internalID: 3862612598336179187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_17
+      name: mascara_14
       rect:
         serializedVersion: 2
-        x: 1419
-        y: 3103
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cae5f1b5605272da0800000000000000
-      internalID: -5969762071827489108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_18
-      rect:
-        serializedVersion: 2
-        x: 1434
-        y: 3582
-        width: 13
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 713052f10a3cd28f0800000000000000
-      internalID: -563579285866740969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_19
-      rect:
-        serializedVersion: 2
-        x: 1444
-        y: 3595
-        width: 446
-        height: 399
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a358ca17b874ebf00800000000000000
-      internalID: 1134422820377101626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_20
-      rect:
-        serializedVersion: 2
-        x: 2270
-        y: 3015
-        width: 743
-        height: 690
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfe6c1f5f4e228670800000000000000
-      internalID: 8539438761880874749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_21
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 2994
+        x: 53
+        y: 385
         width: 8
         height: 7
       alignment: 0
@@ -797,899 +604,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a25c0e2cdf6a761a0800000000000000
-      internalID: -6816295902175509206
+      spriteID: 09dff5f31de9b8900800000000000000
+      internalID: 687817989652741520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_22
+      name: mascara_15
       rect:
         serializedVersion: 2
-        x: 59
-        y: 2966
+        x: 56
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d25fa8ba0d6b90800000000000000
+      internalID: -7247124437037558417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 375
         width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a0a484015dc91d00800000000000000
-      internalID: 944011344762675363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_23
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 2872
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0df5057a6dbf10c0800000000000000
-      internalID: -4602752029221847794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_24
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 2719
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dca3f5ccb54ac9990800000000000000
-      internalID: -7377841375361942835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_25
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 2722
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f9cf085ef841cc80800000000000000
-      internalID: -8304275980658161160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_26
-      rect:
-        serializedVersion: 2
-        x: 1412
-        y: 2711
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7933c816429446f0800000000000000
-      internalID: -701274812202141318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_27
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 2633
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59e226c5307bf4bc0800000000000000
-      internalID: -3796614735787315563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_28
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 2439
-        width: 202
-        height: 115
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9667efe919e23b3a0800000000000000
-      internalID: -6650921021723478423
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_29
-      rect:
-        serializedVersion: 2
-        x: 2338
-        y: 2520
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60366a900ea5cc990800000000000000
-      internalID: -7364411372376530170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_30
-      rect:
-        serializedVersion: 2
-        x: 1382
-        y: 2473
-        width: 18
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 991f4475af35f7bc0800000000000000
-      internalID: -3783212827296861799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_31
-      rect:
-        serializedVersion: 2
-        x: 2343
-        y: 2500
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62c3de8663237cbb0800000000000000
-      internalID: -4915905258981606362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_32
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 2422
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b425508b952f20830800000000000000
-      internalID: 4036054683230753355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_33
-      rect:
-        serializedVersion: 2
-        x: 1378
-        y: 2411
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b1fd8b152e030820800000000000000
-      internalID: 2883163738986115512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_34
-      rect:
-        serializedVersion: 2
-        x: 1383
-        y: 2387
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 676219ecd7d895880800000000000000
-      internalID: -8621704440148056458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_35
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 2361
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b79c5b7ed2a8e8ff0800000000000000
-      internalID: -31936217579402885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_36
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 2296
-        width: 73
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6f67f37d8bec2970800000000000000
-      internalID: 8731612770333060974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_37
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 2314
-        width: 85
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27c50fadf4bd4e900800000000000000
-      internalID: 712935777053465714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_38
-      rect:
-        serializedVersion: 2
-        x: 1367
-        y: 2308
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3d254f6488d73f20800000000000000
-      internalID: 3402426106815786298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_39
-      rect:
-        serializedVersion: 2
-        x: 1376
-        y: 2215
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6821e988bc9b0e40800000000000000
-      internalID: 5623760876103346287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_40
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 2195
-        width: 41
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73370bd2854eaffa0800000000000000
-      internalID: -5766045305519705289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_41
-      rect:
-        serializedVersion: 2
-        x: 1353
-        y: 2152
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74cc8fcc9202c78f0800000000000000
-      internalID: -541522491286696889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_42
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 1995
-        width: 67
-        height: 151
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e6905a6b0e016180800000000000000
-      internalID: -9123995927884818716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_43
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 2041
-        width: 123
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9bf296217925a5e0800000000000000
-      internalID: -1899066101911585889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_44
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 1927
-        width: 54
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b927c1cde65c926d0800000000000000
-      internalID: -3014661395617910117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_45
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 1999
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 594aea0912e87d3e0800000000000000
-      internalID: -2028996832294689643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_46
-      rect:
-        serializedVersion: 2
-        x: 1335
-        y: 1977
-        width: 10
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18bdde8188bc30180800000000000000
-      internalID: -9150246232492483711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_47
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 1431
-        width: 149
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c4054056592dacf0800000000000000
-      internalID: -239489754490141504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_48
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 1479
-        width: 619
-        height: 384
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81464ef14e5a25600800000000000000
-      internalID: 455608911524029464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_49
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 1492
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe3e6b6dbffa4ebc0800000000000000
-      internalID: -3754682693146188817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_50
-      rect:
-        serializedVersion: 2
-        x: 1104
-        y: 1567
-        width: 60
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0900efe044230a330800000000000000
-      internalID: 3720028560098721936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_51
-      rect:
-        serializedVersion: 2
-        x: 593
-        y: 1327
-        width: 118
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1795fd7c4384100f0800000000000000
-      internalID: -1152560638101333647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_52
-      rect:
-        serializedVersion: 2
-        x: 2849
-        y: 1343
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dbbc6fa802deedb10800000000000000
-      internalID: 2008303207879986109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_53
-      rect:
-        serializedVersion: 2
-        x: 1405
-        y: 1319
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1503649baf8347db0800000000000000
-      internalID: -4795145053741371311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_54
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 0
-        width: 468
-        height: 1153
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a3e8a2a67eaa2410800000000000000
-      internalID: 1453165654338757542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_55
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 1119
-        width: 119
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e94473f64881cf230800000000000000
-      internalID: 3673838353108124830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_56
-      rect:
-        serializedVersion: 2
-        x: 682
-        y: 1081
-        width: 109
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 889f6a8c103014170800000000000000
-      internalID: 8160807305968286088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_57
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 1018
-        width: 12
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4f36375d9b2857e0800000000000000
-      internalID: -1776622098224627889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_58
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 625
-        width: 157
-        height: 211
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ff81961b71209100800000000000000
-      internalID: 112626803227594744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_59
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 800
-        width: 39
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78c58f15473c88e20800000000000000
-      internalID: 3353144826936188039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_60
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 705
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eaf013a80721c8db0800000000000000
-      internalID: -4788432029237571666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_61
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 622
-        width: 237
-        height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29042ac845a9809c0800000000000000
-      internalID: -3960746184344977262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_62
-      rect:
-        serializedVersion: 2
-        x: 1311
-        y: 633
-        width: 9
         height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1699,150 +648,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa1585294779bf060800000000000000
-      internalID: 6988345773722718639
+      spriteID: c65cee360f5162cc0800000000000000
+      internalID: -3736274718644320916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rimel_63
+      name: mascara_17
       rect:
         serializedVersion: 2
-        x: 311
-        y: 482
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffa4000351bb57970800000000000000
-      internalID: 8752107150538459903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_64
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 120
-        width: 37
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d02308be46352aca0800000000000000
-      internalID: -6007147260045938163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_65
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 146
-        width: 12
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffd4be5672a5024a0800000000000000
-      internalID: -6620192326974484993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_66
-      rect:
-        serializedVersion: 2
-        x: 189
-        y: 109
-        width: 84
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b89fac5c69110eee0800000000000000
-      internalID: -1233966958638335605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_67
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 122
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2530fff72885d1480800000000000000
-      internalID: -8926881568862043310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_68
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 72
-        width: 374
-        height: 353
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 155dc10f6beb9e940800000000000000
-      internalID: 5325997727264068945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rimel_69
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 25
+        x: 151
+        y: 377
         width: 7
         height: 6
       alignment: 0
@@ -1853,8 +670,866 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c92b10e985d9ca00800000000000000
-      internalID: 777387198845233603
+      spriteID: 4b16af0812a02a060800000000000000
+      internalID: 6963139112882299316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 352
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7c47fd21970880800000000000000
+      internalID: -8644781333105836342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d255ed9b32d3ed630800000000000000
+      internalID: 3953664746529379629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 338
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b2a78fc35a0720800000000000000
+      internalID: 2813153068045217895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 375
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0006bbfa38a170800000000000000
+      internalID: 8189860775137906487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 340
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d7f07a2bf9b8d0800000000000000
+      internalID: -2829954731123158227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 291
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd4b62b749131c0800000000000000
+      internalID: -4525672893879362245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd020011740de870800000000000000
+      internalID: 8713625737678163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126a79ecaa3be4fb0800000000000000
+      internalID: -4661591018090027487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2511dcba84236c3a0800000000000000
+      internalID: -6645568912437210798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4e919d85fe8450800000000000000
+      internalID: 6093077334261123588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfc4b4ecbfa0320800000000000000
+      internalID: 2525107404539755328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 268
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c628ad13e5e28ad0800000000000000
+      internalID: -2701344062850980154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f27b2e92d55660800000000000000
+      internalID: 7374031541664675317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc39ecba161d0db0800000000000000
+      internalID: -4824175321749570379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633875ee63a3dd560800000000000000
+      internalID: 7340086975285134134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a890fd13e091ab0800000000000000
+      internalID: -5036979100879058299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a48bf0a0f22100800000000000000
+      internalID: 81892317451297341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b86e2e80a27e75c0800000000000000
+      internalID: -4215806167266465611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 190
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c78f3aac047bd0800000000000000
+      internalID: -2633465956755061896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b2d14a60e5ac200800000000000000
+      internalID: 201076515987598237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3525c5e0cce50a80800000000000000
+      internalID: -8501128408359164613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73e0e7673960aa30800000000000000
+      internalID: 4224492137160434555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f50c5d49797d340800000000000000
+      internalID: 4888542586031071051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1be7b9f1b9151b0800000000000000
+      internalID: -5669579895827680786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6fa6733048cdee0800000000000000
+      internalID: -1234967048456833305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a965842efaeffcb0800000000000000
+      internalID: -4827881898262566487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a235a54d4c182990800000000000000
+      internalID: -7410642068631637335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c4d15ea9c415f0800000000000000
+      internalID: -786782284348602400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19a9e862417ece0800000000000000
+      internalID: -1376109005304589886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c28208678e7dd20800000000000000
+      internalID: 3303364447353449476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6850e218881d120800000000000000
+      internalID: 2436878961788421850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c0bcbac1c32b80800000000000000
+      internalID: -8420673801759438451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c2c4284dc6f070800000000000000
+      internalID: 8139919086256834989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767e33d02abcf810800000000000000
+      internalID: 1800518601187161724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef2c7b9c6072cc0800000000000000
+      internalID: -3736009902439334209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a49ea8f02a9eb0800000000000000
+      internalID: -4712417807636846296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c061ea4302d6410800000000000000
+      internalID: 1471868063851088996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864b1a46e206fbfd0800000000000000
+      internalID: -2324033130326805400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mascara_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3893ca4d3b3eb60800000000000000
+      internalID: 7774255107775497168
       vertices: []
       indices: 
       edges: []
@@ -1873,76 +1548,63 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      rimel_0: -1932398903241589696
-      rimel_1: 3189650903758725612
-      rimel_10: -231618250830924536
-      rimel_11: -7374851188332421247
-      rimel_12: -5317814788435096782
-      rimel_13: 2175955900970794073
-      rimel_14: -668445484428824660
-      rimel_15: 9187392753359664760
-      rimel_16: 7130885163465186549
-      rimel_17: -5969762071827489108
-      rimel_18: -563579285866740969
-      rimel_19: 1134422820377101626
-      rimel_2: 5249320129644958257
-      rimel_20: 8539438761880874749
-      rimel_21: -6816295902175509206
-      rimel_22: 944011344762675363
-      rimel_23: -4602752029221847794
-      rimel_24: -7377841375361942835
-      rimel_25: -8304275980658161160
-      rimel_26: -701274812202141318
-      rimel_27: -3796614735787315563
-      rimel_28: -6650921021723478423
-      rimel_29: -7364411372376530170
-      rimel_3: -2601801019182139885
-      rimel_30: -3783212827296861799
-      rimel_31: -4915905258981606362
-      rimel_32: 4036054683230753355
-      rimel_33: 2883163738986115512
-      rimel_34: -8621704440148056458
-      rimel_35: -31936217579402885
-      rimel_36: 8731612770333060974
-      rimel_37: 712935777053465714
-      rimel_38: 3402426106815786298
-      rimel_39: 5623760876103346287
-      rimel_4: -5526723289605484209
-      rimel_40: -5766045305519705289
-      rimel_41: -541522491286696889
-      rimel_42: -9123995927884818716
-      rimel_43: -1899066101911585889
-      rimel_44: -3014661395617910117
-      rimel_45: -2028996832294689643
-      rimel_46: -9150246232492483711
-      rimel_47: -239489754490141504
-      rimel_48: 455608911524029464
-      rimel_49: -3754682693146188817
-      rimel_5: -5053997430973009712
-      rimel_50: 3720028560098721936
-      rimel_51: -1152560638101333647
-      rimel_52: 2008303207879986109
-      rimel_53: -4795145053741371311
-      rimel_54: 1453165654338757542
-      rimel_55: 3673838353108124830
-      rimel_56: 8160807305968286088
-      rimel_57: -1776622098224627889
-      rimel_58: 112626803227594744
-      rimel_59: 3353144826936188039
-      rimel_6: 8512143034513974599
-      rimel_60: -4788432029237571666
-      rimel_61: -3960746184344977262
-      rimel_62: 6988345773722718639
-      rimel_63: 8752107150538459903
-      rimel_64: -6007147260045938163
-      rimel_65: -6620192326974484993
-      rimel_66: -1233966958638335605
-      rimel_67: -8926881568862043310
-      rimel_68: 5325997727264068945
-      rimel_69: 777387198845233603
-      rimel_7: -3483326259782710407
-      rimel_8: -303375603092984815
-      rimel_9: 8297780259849445665
+      mascara_0: 5643488336060575704
+      mascara_1: 1735740331836043004
+      mascara_10: -1653257806720057271
+      mascara_11: 7536300758765345202
+      mascara_12: 6621789395517057402
+      mascara_13: 3862612598336179187
+      mascara_14: 687817989652741520
+      mascara_15: -7247124437037558417
+      mascara_16: -3736274718644320916
+      mascara_17: 6963139112882299316
+      mascara_18: -8644781333105836342
+      mascara_19: 3953664746529379629
+      mascara_2: -2867913077356953577
+      mascara_20: 2813153068045217895
+      mascara_21: 8189860775137906487
+      mascara_22: -2829954731123158227
+      mascara_23: -4525672893879362245
+      mascara_24: 8713625737678163455
+      mascara_25: -4661591018090027487
+      mascara_26: -6645568912437210798
+      mascara_27: 6093077334261123588
+      mascara_28: 2525107404539755328
+      mascara_29: -2701344062850980154
+      mascara_3: -6327352970971486067
+      mascara_30: 7374031541664675317
+      mascara_31: -4824175321749570379
+      mascara_32: 7340086975285134134
+      mascara_33: -5036979100879058299
+      mascara_34: 81892317451297341
+      mascara_35: -4215806167266465611
+      mascara_36: -2633465956755061896
+      mascara_37: 201076515987598237
+      mascara_38: -8501128408359164613
+      mascara_39: 4224492137160434555
+      mascara_4: 3752660582846936277
+      mascara_40: 4888542586031071051
+      mascara_41: -5669579895827680786
+      mascara_42: -1234967048456833305
+      mascara_43: -4827881898262566487
+      mascara_44: -7410642068631637335
+      mascara_45: -786782284348602400
+      mascara_46: -1376109005304589886
+      mascara_47: 3303364447353449476
+      mascara_48: 2436878961788421850
+      mascara_49: -8420673801759438451
+      mascara_5: 8548080677246186373
+      mascara_50: 8139919086256834989
+      mascara_51: 1800518601187161724
+      mascara_52: -3736009902439334209
+      mascara_53: -4712417807636846296
+      mascara_54: 1471868063851088996
+      mascara_55: -2324033130326805400
+      mascara_56: 7774255107775497168
+      mascara_6: 9111814415856935997
+      mascara_7: 8524994870508179583
+      mascara_8: -7222485314127973821
+      mascara_9: 6500316752828933791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

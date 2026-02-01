@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 8b01503d174bc1c4ba7933df6aaad34c
+guid: 8e9f317630c79c946b9f96c758c93e15
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -909491137488801420
-    second: Bdsm_0
-  - first:
-      213: 529578711621870977
-    second: Bdsm_1
+      213: -7646393638778225146
+    second: ui_con_el_pes_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bdsm_0
+      name: ui_con_el_pes_2_0
       rect:
         serializedVersion: 2
-        x: 782
-        y: 950
-        width: 1599
-        height: 2480
+        x: 0
+        y: 0
+        width: 1634
+        height: 802
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4713d9f01a6d063f0800000000000000
-      internalID: -909491137488801420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bdsm_1
-      rect:
-        serializedVersion: 2
-        x: 2373
-        y: 3101
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 185a4da4801795700800000000000000
-      internalID: 529578711621870977
+      spriteID: 60e31d37f7d82e590800000000000000
+      internalID: -7646393638778225146
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bdsm_0: -909491137488801420
-      Bdsm_1: 529578711621870977
+      ui_con_el_pes_2_0: -7646393638778225146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

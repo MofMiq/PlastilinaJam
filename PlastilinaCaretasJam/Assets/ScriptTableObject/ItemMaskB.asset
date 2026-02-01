@@ -13,13 +13,16 @@ MonoBehaviour:
   m_Name: ItemMaskB
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: B
-  icon: {fileID: 21300000, guid: d7dec0e8de5a82a4d820c2da1e940300, type: 3}
+  icon: {fileID: 21300000, guid: 7d543c23a4590d84799060ab04eba204, type: 3}
   orugaAnimator: {fileID: 9100000, guid: a68d9cc333d315044a34c1842379e0f9, type: 2}
-  cuneiformeAnimator: {fileID: 0}
+  cuneiformeAnimator: {fileID: 9100000, guid: 04b437cbdc8a4164f95b96b85e91c2bd, type: 2}
   pescaoAnimator: {fileID: 9100000, guid: aeb15dc1347be864f872f204b9179b0b, type: 2}
   oruga: 3
   cuneiforme: 1
   pescao: 2
-  responseOruga: b oru
-  responseCuneiforme: b cun
-  responsePescao: b pesc
+  responseOruga: "Ojo eh. Esto est\xE1 guapo, bro. Yo creo que la gente lo va a flipar
+    en la feria. Muchas gracias, toma esto."
+  responseCuneiforme: Esto dista mucho de lo que necesito, sin embargo, mis modales
+    me hacen no poder rechazarlo. El protocolo me obliga a darte algo a cambio. Toma.
+  responsePescao: "Bueno, esto se parece a algunas m\xE1scaras que he visto en las
+    fiestas, pero no s\xE9 si lo encontrar\xE1n sexy. No est\xE1 mal\u2026"

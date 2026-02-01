@@ -13,13 +13,18 @@ MonoBehaviour:
   m_Name: ItemMaskC
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: C
-  icon: {fileID: 21300000, guid: 8b01503d174bc1c4ba7933df6aaad34c, type: 3}
+  icon: {fileID: 21300000, guid: 1dea5f4282c587143a8e32943f0a372b, type: 3}
   orugaAnimator: {fileID: 9100000, guid: d1d1808b46641fd44a2bc702aa42905e, type: 2}
-  cuneiformeAnimator: {fileID: 0}
+  cuneiformeAnimator: {fileID: 9100000, guid: 044299617487fea42b58964df41fd6f3, type: 2}
   pescaoAnimator: {fileID: 9100000, guid: e81bfa6986afb6a45a8b8b6a941ee335, type: 2}
   oruga: 1
   cuneiforme: 2
   pescao: 4
-  responseOruga: 
-  responseCuneiforme: 
-  responsePescao: 
+  responseOruga: "Hostia, no se yo si con esto puedo vacilar mucho, bro. Bueno, t\xFA
+    eres quien controla de m\xE1scaras\u2026 En fin, toma esto, que tengo ranked
+    ahora."
+  responseCuneiforme: "Una curiosa elecci\xF3n. He de decir que tengo mis reservas
+    en cuanto a si su efecto ser\xE1 el deseado, pero agradezco tu intenci\xF3n,
+    joven. Toma esto."
+  responsePescao: "\xA1Esto es justo lo que necesitaba! Es perfecto, ya me veo repartiendo
+    amor por toda Carratraca. \xA1Mil gracias!"

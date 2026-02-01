@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: d00c935ee3b29e04e81e570caf8b0535
+guid: 0c9b95112c6549b489826b9148f6925e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7901316602297078717
-    second: tarta_0
-  - first:
-      213: 5156893080604596480
-    second: tarta_1
-  - first:
-      213: -5748133036426684003
-    second: tarta_2
+      213: 2981851067379061340
+    second: ui_esquinas_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,57 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tarta_0
+      name: ui_esquinas_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 37
-        width: 500
-        height: 432
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db350d9369d17ad60800000000000000
-      internalID: 7901316602297078717
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tarta_1
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 29
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0095b163fe6f09740800000000000000
-      internalID: 5156893080604596480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tarta_2
-      rect:
-        serializedVersion: 2
-        x: 159
         y: 0
-        width: 10
-        height: 8
+        width: 1661
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d99991255778a30b0800000000000000
-      internalID: -5748133036426684003
+      spriteID: c529f3c4fb9a16920800000000000000
+      internalID: 2981851067379061340
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tarta_0: 7901316602297078717
-      tarta_1: 5156893080604596480
-      tarta_2: -5748133036426684003
+      ui_esquinas_0: 2981851067379061340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

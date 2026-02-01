@@ -1,16 +1,22 @@
 fileFormatVersion: 2
-guid: d00c935ee3b29e04e81e570caf8b0535
+guid: 1dea5f4282c587143a8e32943f0a372b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7901316602297078717
-    second: tarta_0
+      213: 8570708448157940854
+    second: latex_0
   - first:
-      213: 5156893080604596480
-    second: tarta_1
+      213: 6769881558768995044
+    second: latex_1
   - first:
-      213: -5748133036426684003
-    second: tarta_2
+      213: 8457211366498706062
+    second: latex_2
+  - first:
+      213: 4449752729803029898
+    second: latex_3
+  - first:
+      213: 4199743081787354730
+    second: latex_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tarta_0
+      name: latex_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 37
-        width: 500
-        height: 432
+        x: 102
+        y: 7
+        width: 304
+        height: 486
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,19 +140,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db350d9369d17ad60800000000000000
-      internalID: 7901316602297078717
+      spriteID: 67cb4ed8ce541f670800000000000000
+      internalID: 8570708448157940854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tarta_1
+      name: latex_1
       rect:
         serializedVersion: 2
-        x: 257
-        y: 29
-        width: 8
+        x: 390
+        y: 418
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac4e9c86373fd50800000000000000
+      internalID: 6769881558768995044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: latex_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 386
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e822d8afdec0e5570800000000000000
+      internalID: 8457211366498706062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: latex_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 394
+        width: 7
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -156,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0095b163fe6f09740800000000000000
-      internalID: 5156893080604596480
+      spriteID: a8dfb3e2882b0cd30800000000000000
+      internalID: 4449752729803029898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tarta_2
+      name: latex_4
       rect:
         serializedVersion: 2
-        x: 159
-        y: 0
-        width: 10
-        height: 8
+        x: 406
+        y: 210
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d99991255778a30b0800000000000000
-      internalID: -5748133036426684003
+      spriteID: a6ee6d9e41c784a30800000000000000
+      internalID: 4199743081787354730
       vertices: []
       indices: 
       edges: []
@@ -198,9 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tarta_0: 7901316602297078717
-      tarta_1: 5156893080604596480
-      tarta_2: -5748133036426684003
+      latex_0: 8570708448157940854
+      latex_1: 6769881558768995044
+      latex_2: 8457211366498706062
+      latex_3: 4449752729803029898
+      latex_4: 4199743081787354730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
