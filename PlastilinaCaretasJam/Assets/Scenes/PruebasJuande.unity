@@ -264,6 +264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d7042dd922666b4e9f00ed574327c04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TransitionButton
+  fallbackNextScene: Scenes/01.SceneOruga
 --- !u!1 &1377977301
 GameObject:
   m_ObjectHideFlags: 0

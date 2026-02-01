@@ -55,7 +55,11 @@ public class NPCDialog : MonoBehaviour
         {
             string sceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
             Debug.Log("Current scene: " + sceneName);
-            if (sceneName == "01.SceneOruga")
+            if (sceneName == "0B.INTRO")
+            {
+                TransitionManager.LoadTransition("Scenes/01.SceneOruga");
+            }
+            else if (sceneName == "01.SceneOruga")
             {
                 TransitionManager.LoadTransition("Scenes/02.SceneCune");
             }
