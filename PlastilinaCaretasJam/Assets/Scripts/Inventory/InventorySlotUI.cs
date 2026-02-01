@@ -33,6 +33,10 @@ public class InventorySlotDebug : MonoBehaviour
             iconImage.sprite = maskItem.icon;
             iconImage.enabled = true;
         }
+        if (maskItem.name == "InvisibleMask")
+        {
+            iconImage.enabled = false;
+        }
     }
 
     public void OnSlotClicked()
