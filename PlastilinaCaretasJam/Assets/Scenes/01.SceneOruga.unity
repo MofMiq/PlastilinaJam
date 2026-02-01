@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -129.95, y: -14.015}
+  m_AnchoredPosition: {x: -129.95001, y: -14.015}
   m_SizeDelta: {x: 259.9, y: 210.03}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8068588
@@ -356,6 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogUI
   dialogText: {fileID: 990388133}
+  typewriterSpeed: 30
 --- !u!1 &389142140
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,8 +899,8 @@ MonoBehaviour:
   m_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel
     leo id diam s
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
-  m_sharedMaterial: {fileID: 5733641925343589023, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8c94778b5e721334dad4ef32c717dd4c, type: 2}
+  m_sharedMaterial: {fileID: 6903446475658826869, guid: 8c94778b5e721334dad4ef32c717dd4c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -962,7 +963,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 23.125153, y: -33.976128, z: -789.74805, w: -25.482193}
+  m_margin: {x: 23.125153, y: -33.976128, z: -759.5344, w: -25.482193}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

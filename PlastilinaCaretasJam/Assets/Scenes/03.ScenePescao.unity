@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -129.95009, y: -14.015019}
+  m_AnchoredPosition: {x: -129.95007, y: -14.015019}
   m_SizeDelta: {x: 259.9, y: 210.03}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8068588
@@ -356,6 +356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogUI
   dialogText: {fileID: 990388133}
+  typewriterSpeed: 30
 --- !u!1 &389142140
 GameObject:
   m_ObjectHideFlags: 0
@@ -761,8 +762,8 @@ MonoBehaviour:
   m_text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel
     leo id diam sodales rhoncus.  \r\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
-  m_sharedMaterial: {fileID: 5733641925343589023, guid: 44fc8da01cee4ef4d85d4bd37c2c0e59, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8c94778b5e721334dad4ef32c717dd4c, type: 2}
+  m_sharedMaterial: {fileID: 6903446475658826869, guid: 8c94778b5e721334dad4ef32c717dd4c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1178,7 +1179,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 308.53, y: -241}
+  m_AnchoredPosition: {x: 308.52997, y: -241}
   m_SizeDelta: {x: 617.07, y: 190.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1145660043
