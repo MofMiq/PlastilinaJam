@@ -313,6 +313,7 @@ GameObject:
   - component: {fileID: 312288629}
   - component: {fileID: 312288632}
   - component: {fileID: 312288631}
+  - component: {fileID: 312288633}
   - component: {fileID: 312288630}
   m_Layer: 5
   m_Name: CreditsButton
@@ -384,7 +385,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 312288631}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 312288633}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Scenes/Credits
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &312288631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -423,6 +436,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 312288628}
   m_CullTransparentMesh: 1
+--- !u!114 &312288633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 312288628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d88405cbd6e0a945a8cb94b332db98e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
 --- !u!1 &435900983
 GameObject:
   m_ObjectHideFlags: 0
