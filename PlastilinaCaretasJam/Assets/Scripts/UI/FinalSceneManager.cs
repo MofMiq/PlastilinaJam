@@ -52,29 +52,47 @@ public class FinalSceneManager : MonoBehaviour
         }
     }
 
+    void SetScale(float x, float y)
+    {
+        finalAnimator.transform.localScale = new Vector3(x, y, 1f);
+    }
+
+    void SetPosition(float x, float y)
+    {
+        finalAnimator.transform.position = new Vector3(x, y, 0f);
+    }
+
     RuntimeAnimatorController GetFinalAnimator(int score)
     {
         if (score >= thresholdPerfect)
         {
             Debug.Log("Final: PERFECTO");
+            SetScale(1.06f, 1.06f);
+            SetPosition(-4.5f, -0.6f);
             PlayMusic(musicPerfect);
             return finalPerfect;
         }
         else if (score >= thresholdGood)
         {
             Debug.Log("Final: BUENO");
+            SetPosition(-3f, -1f);
+            SetScale(0.9f, 0.9f);
             PlayMusic(musicGood);
             return finalGood;
         }
         else if (score >= thresholdNormal)
         {
             Debug.Log("Final: NORMAL");
+            SetPosition(-3f, -1f);
+            SetScale(0.9f, 0.9f);
             PlayMusic(musicNormal);
             return finalNormal;
         }
         else
         {
             Debug.Log("Final: MALO");
+            SetPosition(0f, 0f);
+            SetScale(0.7f, 0.7f);
             PlayMusic(musicBad);
             return finalBad;
         }
