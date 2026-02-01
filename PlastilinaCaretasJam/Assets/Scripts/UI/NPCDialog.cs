@@ -78,6 +78,5 @@ public class NPCDialog : MonoBehaviour
 
         inventoryCanvasGroup.interactable = value;
         inventoryCanvasGroup.blocksRaycasts = value;
-        inventoryCanvasGroup.alpha = value ? 1f : 0.5f;
     }
 }
