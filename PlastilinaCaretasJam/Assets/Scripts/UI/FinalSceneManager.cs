@@ -3,14 +3,21 @@ using UnityEngine.UI;
 
 public class FinalSceneManager : MonoBehaviour
 {
-    [Header("Imagen Final")]
-    public Image finalImage;
+    [Header("Animator Final")]
+    public Animator finalAnimator;
 
-    [Header("Sprites de Finales")]
-    public Sprite finalBad;       // Score muy bajo
-    public Sprite finalNormal;    // Score bajo-medio
-    public Sprite finalGood;      // Score medio-alto
-    public Sprite finalPerfect;   // Score máximo
+    [Header("Animators de Finales")]
+    public RuntimeAnimatorController finalBad;       // Score muy bajo
+    public RuntimeAnimatorController finalNormal;    // Score bajo-medio
+    public RuntimeAnimatorController finalGood;      // Score medio-alto
+    public RuntimeAnimatorController finalPerfect;   // Score máximo
+
+    [Header("Música de Finales")]
+    public AudioSource musicSource;
+    public AudioClip musicBad;
+    public AudioClip musicNormal;
+    public AudioClip musicGood;
+    public AudioClip musicPerfect;
 
     [Header("Rangos de Score")]
     public int thresholdNormal = 4;   // >= para normal
@@ -36,36 +43,50 @@ public class FinalSceneManager : MonoBehaviour
             Debug.LogWarning("GameManager no encontrado. Usando score 0.");
         }
 
-        // Seleccionar sprite según el score
-        Sprite selectedSprite = GetFinalSprite(score);
+        // Seleccionar animator según el score
+        RuntimeAnimatorController selectedAnimator = GetFinalAnimator(score);
 
-        if (finalImage != null && selectedSprite != null)
+        if (finalAnimator != null && selectedAnimator != null)
         {
-            finalImage.sprite = selectedSprite;
+            finalAnimator.runtimeAnimatorController = selectedAnimator;
         }
     }
 
-    Sprite GetFinalSprite(int score)
+    RuntimeAnimatorController GetFinalAnimator(int score)
     {
         if (score >= thresholdPerfect)
         {
             Debug.Log("Final: PERFECTO");
+            PlayMusic(musicPerfect);
             return finalPerfect;
         }
         else if (score >= thresholdGood)
         {
             Debug.Log("Final: BUENO");
+            PlayMusic(musicGood);
             return finalGood;
         }
         else if (score >= thresholdNormal)
         {
             Debug.Log("Final: NORMAL");
+            PlayMusic(musicNormal);
             return finalNormal;
         }
         else
         {
             Debug.Log("Final: MALO");
+            PlayMusic(musicBad);
             return finalBad;
+        }
+    }
+
+    void PlayMusic(AudioClip clip)
+    {
+        if (musicSource != null && clip != null)
+        {
+            musicSource.clip = clip;
+            musicSource.loop = true;
+            musicSource.Play();
         }
     }
 }
