@@ -357,6 +357,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogUI
   dialogText: {fileID: 990388133}
   typewriterSpeed: 30
+  typewriterSound: {fileID: 8300000, guid: f63d34a8bfaed5d488829cb5ca14f516, type: 3}
+  randomizePitch: 1
+  pitchRange: {x: 0.9, y: 1.1}
 --- !u!1 &389142140
 GameObject:
   m_ObjectHideFlags: 0

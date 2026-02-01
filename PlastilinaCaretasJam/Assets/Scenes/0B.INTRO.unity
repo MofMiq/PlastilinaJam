@@ -635,6 +635,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogUI
   dialogText: {fileID: 1403860388}
   typewriterSpeed: 30
+  typewriterSound: {fileID: 8300000, guid: 0c671b2461b4f8e41852efccfb3ae116, type: 3}
+  randomizePitch: 1
+  pitchRange: {x: 0, y: 1}
 --- !u!222 &1303509894
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -915,6 +918,10 @@ MonoBehaviour:
     consigo repartir muchas <color=#FF69B4>m\xE1scaras</color>."
   typewriterSpeed: 30
   playOnStart: 1
+  typewriterSound: {fileID: 8300000, guid: 0c671b2461b4f8e41852efccfb3ae116, type: 3}
+  randomizePitch: 0
+  pitchRange: {x: 0.9, y: 1.1}
+  pitchChangeInterval: 0.05
 --- !u!1 &1691671611
 GameObject:
   m_ObjectHideFlags: 0

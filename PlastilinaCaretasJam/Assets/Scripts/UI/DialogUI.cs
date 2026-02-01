@@ -11,12 +11,34 @@ public class DialogUI : MonoBehaviour
     [Tooltip("Caracteres por segundo")]
     public float typewriterSpeed = 30f;
 
+    [Header("Sonido")]
+    [Tooltip("Sonido que se reproduce mientras se escribe el texto")]
+    public AudioClip typewriterSound;
+
+    [Tooltip("Aleatorizar el pitch del sonido")]
+    public bool randomizePitch = false;
+
+    [Tooltip("Rango de pitch aleatorio (mínimo y máximo)")]
+    public Vector2 pitchRange = new Vector2(0.9f, 1.1f);
+
+    private AudioSource audioSource;
     private string[] currentLines;
     private int currentIndex;
     private bool isTyping = false;
     private Coroutine typewriterCoroutine;
 
     public Action OnDialogFinished;
+
+    void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
+    }
 
     public void StartDialog(string[] lines)
     {   
@@ -33,14 +55,12 @@ public class DialogUI : MonoBehaviour
 
     public void NextLine()
     {
-        // Si aún se está escribiendo, completar el texto inmediatamente
         if (isTyping)
         {
             CompleteCurrentLine();
             return;
         }
 
-        // Si ya terminó de escribir, pasar a la siguiente línea
         currentIndex++;
 
         if (currentIndex >= currentLines.Length)
@@ -69,6 +89,12 @@ public class DialogUI : MonoBehaviour
             StopCoroutine(typewriterCoroutine);
         }
 
+        if (audioSource != null && audioSource.isPlaying)
+        {
+            audioSource.Stop();
+            audioSource.pitch = 1f;
+        }
+
         dialogText.text = currentLines[currentIndex];
         isTyping = false;
     }
@@ -78,26 +104,41 @@ public class DialogUI : MonoBehaviour
         isTyping = true;
         dialogText.text = "";
 
+        if (typewriterSound != null && audioSource != null)
+        {
+            audioSource.clip = typewriterSound;
+            audioSource.Play();
+        }
+
         int i = 0;
         while (i < line.Length)
         {
-            // Si encontramos una etiqueta, añadirla completa
             if (line[i] == '<')
             {
                 int closeIndex = line.IndexOf('>', i);
                 if (closeIndex != -1)
                 {
-                    // Añadir toda la etiqueta de golpe
                     dialogText.text += line.Substring(i, closeIndex - i + 1);
                     i = closeIndex + 1;
                     continue;
                 }
             }
 
-            // Añadir carácter normal
             dialogText.text += line[i];
+            
+            if (randomizePitch && audioSource != null && audioSource.isPlaying)
+            {
+                audioSource.pitch = UnityEngine.Random.Range(pitchRange.x, pitchRange.y);
+            }
+            
             i++;
             yield return new WaitForSeconds(1f / typewriterSpeed);
+        }
+
+        if (audioSource != null && audioSource.isPlaying)
+        {
+            audioSource.Stop();
+            audioSource.pitch = 1f;
         }
 
         isTyping = false;
@@ -108,6 +149,12 @@ public class DialogUI : MonoBehaviour
         if (typewriterCoroutine != null)
         {
             StopCoroutine(typewriterCoroutine);
+        }
+
+        if (audioSource != null && audioSource.isPlaying)
+        {
+            audioSource.Stop();
+            audioSource.pitch = 1f;
         }
 
         dialogText.text = "";
