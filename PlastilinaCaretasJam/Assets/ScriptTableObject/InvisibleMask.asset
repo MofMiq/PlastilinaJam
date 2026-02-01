@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f461de97c9e28d8419d8ba3c43630e89, type: 3}
   m_Name: InvisibleMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
-  maskName: RewardMask
+  maskName: InvisibleMask
   icon: {fileID: 0}
   orugaAnimator: {fileID: 0}
   cuneiformeAnimator: {fileID: 0}
