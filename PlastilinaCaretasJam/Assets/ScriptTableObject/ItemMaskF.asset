@@ -14,7 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: F
   icon: {fileID: 21300000, guid: 3c527330c63814e4c8cfe510e3b98acf, type: 3}
-  npcSprite: {fileID: -2654471525759449198, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
+  orugaAnimator: {fileID: 9100000, guid: 3cdd4663493ccf34981141898469c16d, type: 2}
+  cuneiformeAnimator: {fileID: 0}
+  pescaoAnimator: {fileID: 9100000, guid: 89df58726b7c82941b87d9ac4295f93b, type: 2}
   oruga: 0
   cuneiforme: 0
   pescao: 3
+  responseOruga: 
+  responseCuneiforme: 
+  responsePescao: 

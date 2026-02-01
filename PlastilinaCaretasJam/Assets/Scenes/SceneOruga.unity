@@ -1246,7 +1246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCMaskReceiver
   rewardMask: {fileID: 11400000, guid: cd17cb9a9f15eb8438231b568e57a6ec, type: 2}
-  npcSpriteRenderer: {fileID: 1040450950}
+  npcAnimator: {fileID: 1040450948}
   npcDialog: {fileID: 1040450952}
 --- !u!212 &1040450950
 SpriteRenderer:

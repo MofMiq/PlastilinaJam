@@ -4,8 +4,8 @@ public class NPCMaskReceiver : MonoBehaviour
 {
     public MaskItem rewardMask;
 
-    // SpriteRenderer del NPC (NO UI)
-    public SpriteRenderer npcSpriteRenderer;
+    // Animator del NPC
+    public Animator npcAnimator;
 
     private bool hasReceivedMask = false;
 
@@ -45,15 +45,15 @@ public class NPCMaskReceiver : MonoBehaviour
     void SetNPCMaskVisual(MaskItem mask)
     {
         string npcName = GetComponent<NPCBase>().GetNPCName();
-        Sprite spriteToUse = mask.GetSpriteForNPC(npcName);
+        RuntimeAnimatorController animatorToUse = mask.GetAnimatorForNPC(npcName);
 
-        if (npcSpriteRenderer != null && spriteToUse != null)
+        if (npcAnimator != null && animatorToUse != null)
         {
-            npcSpriteRenderer.sprite = spriteToUse;
+            npcAnimator.runtimeAnimatorController = animatorToUse;
         }
         else
         {
-            Debug.LogWarning("Missing npcSpriteRenderer or sprite for NPC: " + npcName);
+            Debug.LogWarning("Missing npcAnimator or animator controller for NPC: " + npcName);
         }
     }
 }

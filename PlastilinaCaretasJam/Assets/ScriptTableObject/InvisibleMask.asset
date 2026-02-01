@@ -14,7 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MaskItem
   maskName: RewardMask
   icon: {fileID: 0}
-  npcSprite: {fileID: 0}
+  orugaAnimator: {fileID: 0}
+  cuneiformeAnimator: {fileID: 0}
+  pescaoAnimator: {fileID: 0}
   oruga: 0
   cuneiforme: 0
   pescao: 0
+  responseOruga: INVISIBLE ORUGA
+  responseCuneiforme: INVISIBLE CUNEIFORME
+  responsePescao: INVISIBLE PESCAO

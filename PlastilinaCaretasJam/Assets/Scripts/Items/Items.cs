@@ -5,13 +5,12 @@ public class MaskItem : ScriptableObject
 {
     public string maskName;
     public Sprite icon;
-    public Sprite npcSprite;
+    
+    [Header("Animators por NPC")]
+    public RuntimeAnimatorController orugaAnimator;
+    public RuntimeAnimatorController cuneiformeAnimator;
+    public RuntimeAnimatorController pescaoAnimator;
 
-    public Sprite orugaSprite;
-
-    public Sprite cuneiformeSprite;
-
-    public Sprite pescaoSprite;
     // Valores por NPC
     public int oruga;
     public int cuneiforme;
@@ -60,22 +59,22 @@ public class MaskItem : ScriptableObject
         }
     }
 
-    public Sprite GetSpriteForNPC(string npcName)
+    public RuntimeAnimatorController GetAnimatorForNPC(string npcName)
     {
         switch (npcName)
         {
             case "Oruga":
-                return orugaSprite;
+                return orugaAnimator;
 
             case "Cuneiforme":
-                return cuneiformeSprite;
+                return cuneiformeAnimator;
 
             case "Pescao":
-                return pescaoSprite;
+                return pescaoAnimator;
 
             default:
                 Debug.LogWarning("NPC no reconocido: " + npcName);
-                return npcSprite; // Devuelve el sprite por defecto
+                return null;
         }
     }
 }
