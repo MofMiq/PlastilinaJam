@@ -1008,7 +1008,7 @@ Animator:
   m_GameObject: {fileID: 1040450947}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 229f88f4933b85c4b8b268989427073e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1084,7 +1084,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 50
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -5513840234338672818, guid: 49cf0add148ba464aafc9a720a63688f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 723e30e606ff0cd4dbf601ed47bce04e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1103,8 +1103,8 @@ Transform:
   m_GameObject: {fileID: 1040450947}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_LocalPosition: {x: -3.68, y: 1.32, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -1130,9 +1130,6 @@ MonoBehaviour:
     amenazante incluso.
   - "Eso me est\xE1 privando de conocer a personas con las que compartir la cumbia."
   - "Necesito parecer m\xE1s accesible y divertido, ay\xFAdame j\xF3ven."
-  responseDialogLines:
-  - adios cun
-  - tabaco cun
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:
