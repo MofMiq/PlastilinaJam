@@ -55,17 +55,17 @@ public class NPCDialog : MonoBehaviour
         {
             string sceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
             Debug.Log("Current scene: " + sceneName);
-            if (sceneName == "SceneOruga")
+            if (sceneName == "01.SceneOruga")
             {
-                SceneManager.LoadScene("Scenes/SceneCune");
+                SceneManager.LoadScene("Scenes/02.SceneCune");
             }
-            else if (sceneName == "SceneCune")
+            else if (sceneName == "02.SceneCune")
             {
-                SceneManager.LoadScene("Scenes/ScenePescao");
+                SceneManager.LoadScene("Scenes/03.ScenePescao");
             }
-            else if (sceneName == "ScenePescao")
+            else if (sceneName == "03.ScenePescao")
             {
-                SceneManager.LoadScene("Scenes/SceneFinal");
+                SceneManager.LoadScene("Scenes/04.SceneFinal");
             }
         }
         else
