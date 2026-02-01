@@ -1131,7 +1131,7 @@ GameObject:
   - component: {fileID: 1040450949}
   - component: {fileID: 1040450948}
   m_Layer: 0
-  m_Name: Oruga
+  m_Name: Pescao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1262,11 +1262,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialog
   dialogUI: {fileID: 13229840}
   initialDialogLines:
-  - hola
-  - carac
+  - hola pescao
+  - carac pesc
   responseDialogLines:
-  - adios
-  - tabaco
+  - adios  pesc
+  - ' tab pesc'
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:
@@ -1280,7 +1280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 052b1d719371a774584e97aa5760a3ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCBase
-  npcName: Oruga
+  npcName: Pescao
 --- !u!1 &1050190167
 GameObject:
   m_ObjectHideFlags: 0

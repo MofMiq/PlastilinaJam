@@ -52,6 +52,8 @@ public class InventorySlotDebug : MonoBehaviour
         {
             if (slot.button != null)
                 slot.button.interactable = false;
+            Debug.Log("Disabled slot with mask: " + (slot.maskItem != null ? slot.maskItem.maskName : "None"));
         }
+        Debug.Log("All inventory slots disabled.");
     }
 }

@@ -12,7 +12,7 @@ public class DialogUI : MonoBehaviour
     public Action OnDialogFinished;
 
     public void StartDialog(string[] lines)
-    {
+    {   
         if (lines == null || lines.Length == 0)
         {
             FinishDialog();
