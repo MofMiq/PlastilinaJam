@@ -32,9 +32,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: d0aa2fe69d183ff49891971206060a33
+<<<<<<< Updated upstream
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+=======
+  - enabled: 1
+    path: Assets/Scenes/PruebasJuande.unity
+    guid: ba2069cde0fbe2245b1b8604cfa1f225
+>>>>>>> Stashed changes
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

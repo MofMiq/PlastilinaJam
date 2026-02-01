@@ -13,13 +13,13 @@ public class NPCDialog : MonoBehaviour
 
     private bool responsiveDialog = false;
     private MaskItem selectedMask;
+    public int flag = 0;
+    public int flag1 = 0;
 
     private void Start()
     {
-        // Escuchamos cuando termina cualquier diálogo
         dialogUI.OnDialogFinished += OnDialogFinished;
 
-        // Al empezar: diálogo inicial + inventario bloqueado
         SetInventoryInteractable(false);
         dialogUI.StartDialog(initialDialogLines);
     }
@@ -57,15 +57,15 @@ public class NPCDialog : MonoBehaviour
             Debug.Log("Current scene: " + sceneName);
             if (sceneName == "01.SceneOruga")
             {
-                SceneManager.LoadScene("Scenes/02.SceneCune");
+                TransitionManager.LoadTransition("Scenes/02.SceneCune");
             }
             else if (sceneName == "02.SceneCune")
             {
-                SceneManager.LoadScene("Scenes/03.ScenePescao");
+                TransitionManager.LoadTransition("Scenes/03.ScenePescao");
             }
             else if (sceneName == "03.ScenePescao")
             {
-                SceneManager.LoadScene("Scenes/04.SceneFinal");
+                TransitionManager.LoadTransition("Scenes/04.SceneFinal");
             }
         }
         else

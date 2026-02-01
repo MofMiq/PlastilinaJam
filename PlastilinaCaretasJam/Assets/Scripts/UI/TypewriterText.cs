@@ -102,7 +102,6 @@ public class TypewriterText : MonoBehaviour
             audioSource.Play();
         }
 
-        // Iniciar coroutine para randomizar el pitch continuamente
         Coroutine pitchCoroutine = null;
         if (randomizePitch && audioSource != null)
         {
@@ -128,7 +127,6 @@ public class TypewriterText : MonoBehaviour
             yield return new WaitForSeconds(1f / typewriterSpeed);
         }
 
-        // Detener la randomización del pitch
         if (pitchCoroutine != null)
         {
             StopCoroutine(pitchCoroutine);

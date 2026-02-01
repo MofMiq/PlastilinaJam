@@ -9,7 +9,7 @@ public class InventorySlotDebug : MonoBehaviour
 
     public Image iconImage;
     private Button button;
-    public int slotIndex; // Índice del slot para identificarlo
+    public int slotIndex;
 
     void Awake()
     {
@@ -41,18 +41,15 @@ public class InventorySlotDebug : MonoBehaviour
 
     public void OnSlotClicked()
     {
-        // Debug.Log("Slot clicked with mask: " + (maskItem != null ? maskItem.maskName : "None"));
         if (maskItem == null || npcReceiver == null)
             return;
 
-        // Dar máscara al NPC y recibir recompensa
         MaskItem reward = npcReceiver.ReceiveMask(maskItem);
 
         if (reward != null)
         {
             Debug.Log("Slot swapped to new mask: " + reward.maskName);
 
-            // SWAP REAL
             maskItem = reward;
             RefreshVisual();
         }
@@ -71,7 +68,6 @@ public class InventorySlotDebug : MonoBehaviour
         }
         Debug.Log("All inventory slots disabled.");
 
-        // Guardar inventario en GameManager
         SaveInventoryToGameManager();
     }
 
@@ -82,7 +78,6 @@ public class InventorySlotDebug : MonoBehaviour
         InventorySlotDebug[] allSlots = FindObjectsOfType<InventorySlotDebug>();
         List<MaskItem> masks = new List<MaskItem>();
 
-        // Ordenar por slotIndex para mantener el orden
         System.Array.Sort(allSlots, (a, b) => a.slotIndex.CompareTo(b.slotIndex));
 
         foreach (var slot in allSlots)
