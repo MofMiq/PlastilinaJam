@@ -44,13 +44,16 @@ public class NPCMaskReceiver : MonoBehaviour
 
     void SetNPCMaskVisual(MaskItem mask)
     {
-        if (npcSpriteRenderer != null && mask.npcSprite != null)
+        string npcName = GetComponent<NPCBase>().GetNPCName();
+        Sprite spriteToUse = mask.GetSpriteForNPC(npcName);
+
+        if (npcSpriteRenderer != null && spriteToUse != null)
         {
-            npcSpriteRenderer.sprite = mask.npcSprite;
+            npcSpriteRenderer.sprite = spriteToUse;
         }
         else
         {
-            Debug.LogWarning("Missing npcSpriteRenderer or npcSprite on MaskItem");
+            Debug.LogWarning("Missing npcSpriteRenderer or sprite for NPC: " + npcName);
         }
     }
 }
