@@ -1202,14 +1202,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialog
   dialogUI: {fileID: 13229840}
   initialDialogLines:
-  - "\xBFQu\xE9 pasa bro?"
-  - Buah tremenda <color=#FF69B4>partida</color> acabo de echar, a ver si subo a
-    Diamante III de una vez, bro.
-  - "Estaba pensando en que se acerca la pr\xF3xima feria del videojuego y quiero
-    llevar algo to guapo, \xBFjabeh?"
+  - "\xBFQu\xE9 pasa <color=#FF69B4>bro</color>?"
+  - Buah tremenda partida acabo de echar, a ver si subo a Diamante III de una vez,
+    bro.
+  - "Estaba pensando en que se acerca la pr\xF3xima <color=#FF69B4>feria del videojuego</color>
+    y quiero llevar algo to guapo, \xBFjabeh?"
   - Pero no un cosplay, que pa eso no se yo si valgo.
-  - "\xBFNo tienes alguna m\xE1scara con la que pueda yo ir vacilando por ah\xED,
-    bro? "
+  - "\xBFNo tienes alguna m\xE1scara con la que pueda yo <color=#FF69B4>ir vacilando
+    por ah\xED</color>, bro? "
   inventoryCanvasGroup: {fileID: 919713128}
 --- !u!114 &1040450953
 MonoBehaviour:
