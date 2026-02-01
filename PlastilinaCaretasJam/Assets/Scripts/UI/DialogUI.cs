@@ -78,9 +78,25 @@ public class DialogUI : MonoBehaviour
         isTyping = true;
         dialogText.text = "";
 
-        foreach (char c in line)
+        int i = 0;
+        while (i < line.Length)
         {
-            dialogText.text += c;
+            // Si encontramos una etiqueta, añadirla completa
+            if (line[i] == '<')
+            {
+                int closeIndex = line.IndexOf('>', i);
+                if (closeIndex != -1)
+                {
+                    // Añadir toda la etiqueta de golpe
+                    dialogText.text += line.Substring(i, closeIndex - i + 1);
+                    i = closeIndex + 1;
+                    continue;
+                }
+            }
+
+            // Añadir carácter normal
+            dialogText.text += line[i];
+            i++;
             yield return new WaitForSeconds(1f / typewriterSpeed);
         }
 

@@ -912,7 +912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TypewriterText
   fullText: "Ok, toca ponerse en marcha, hoy va a ser un d\xEDa genial, seguro que
-    consigo repartir muchas m\xE1scaras."
+    consigo repartir muchas <color=#FF69B4>m\xE1scaras</color>."
   typewriterSpeed: 30
   playOnStart: 1
 --- !u!1 &1691671611

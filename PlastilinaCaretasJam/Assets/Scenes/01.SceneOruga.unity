@@ -1200,8 +1200,8 @@ MonoBehaviour:
   dialogUI: {fileID: 13229840}
   initialDialogLines:
   - "\xBFQu\xE9 pasa bro?"
-  - Buah tremenda partida acabo de echar, a ver si subo a Diamante III de una vez,
-    bro.
+  - Buah tremenda <color=#FF69B4>partida</color> acabo de echar, a ver si subo a
+    Diamante III de una vez, bro.
   - "Estaba pensando en que se acerca la pr\xF3xima feria del videojuego y quiero
     llevar algo to guapo, \xBFjabeh?"
   - Pero no un cosplay, que pa eso no se yo si valgo.

@@ -73,9 +73,25 @@ public class TypewriterText : MonoBehaviour
         isTyping = true;
         textComponent.text = "";
 
-        foreach (char c in fullText)
+        int i = 0;
+        while (i < fullText.Length)
         {
-            textComponent.text += c;
+            // Si encontramos una etiqueta, añadirla completa
+            if (fullText[i] == '<')
+            {
+                int closeIndex = fullText.IndexOf('>', i);
+                if (closeIndex != -1)
+                {
+                    // Añadir toda la etiqueta de golpe
+                    textComponent.text += fullText.Substring(i, closeIndex - i + 1);
+                    i = closeIndex + 1;
+                    continue;
+                }
+            }
+
+            // Añadir carácter normal
+            textComponent.text += fullText[i];
+            i++;
             yield return new WaitForSeconds(1f / typewriterSpeed);
         }
 
